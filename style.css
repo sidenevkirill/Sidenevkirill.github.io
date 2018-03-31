@@ -18,7 +18,7 @@
   position: relative;
   width: 100vw;
   height: 100vh;
-  background: url(https://images.unsplash.com/photo-1496674205429-924b32acd421?ixlib=rb-0.3.5…jEyMDd9&s=c79e9fb…&auto=format&fit=crop&w=750&q=80);
+  background: rgba(0, 0, 0, 0.85);
   overflow: hidden;
   background-size: cover;
   background-position: center center;
