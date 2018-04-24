@@ -33,7 +33,17 @@
   background-position: top;
   background-attacment: fixed;
 }
-/* Header */
+
+body{margin:0px; padding:0px;}
+@-webkit-keyframes backgroundScroll {
+  from {background-position: 0 0;}
+  to {background-position: -400px 0;}
+}
+
+@keyframes backgroundScroll {
+  from {background-position: 0 0;}
+  to {background-position: -400px 0;}
+}
 
 .text-wrapper {
   position: absolute;
