@@ -32,10 +32,6 @@
   background-size: 130% 100%;
   background-position: top;
   background-attacment: fixed;
-  overflow: hidden;
-  background-size: cover;
-  background-position: center center;
-  z-index: 1;
 }
 /* Header */
 
