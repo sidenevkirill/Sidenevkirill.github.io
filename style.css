@@ -32,35 +32,6 @@
   background-position: top;
   background-attacment: fixed;
 }
-
-@keyframes pos{
-	0%{
-		top:100px;
-		left:320px;
-	}
-	50%{
-		top:100px;
-		left:320px;
-		transform:scale(.5);
-		z-index:-10;
-	}
-	70%{
-		left:-100px;
-		top:100px;
-		z-index:-10;
-	}
-	80%{
-		z-index:10;
-		left:-120px;
-		top:100px;
-	}
-	100%{
-		left:320px;
-		top:100px;
-		z-index:10;
-		transform:scale(1.3);
-	}
-
 .text-wrapper {
   position: absolute;
   top: 60%;
