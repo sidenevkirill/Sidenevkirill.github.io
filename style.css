@@ -5,7 +5,7 @@
   object-fit: cover;
 }
 
-@keyframes animatedBackground{0{background-position:0 0}100%{background-position:-1200px 1200px}}@-moz-keyframes animatedBackground{0{background-position:0 0}100%{background-position:-1200px 1200px}}@-webkit-keyframes animatedBackground{0{background-position:0 0}100%{background-position:-1200px 1200px}}@-o-keyframes animatedBackground{0{background-position:0 0}100%{background-position:-1200px 1200px}}#fon{position:relative;height:340px;width:100%;background:#065380;background-image:url(https://images.unsplash.com/photo-1489110804417-276c3f517515?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bd823e3d71853cf03e3096dbd0573604&auto=format&fit=crop&w=1350&q=80);animation:animatedBackground 60s linear infinite;-moz-animation:animatedBackground 60s linear infinite;-webkit-animation:animatedBackground 60s linear infinite;-o-animation:animatedBackground 60s linear infinite}#fon h2{position:absolute;width:80%;left:10%;top:50%;margin-top:-100px;color:#fff;border:0;text-align:center}
+@keyframes animatedBackground{0{background-position:0 0}100%{background-position:-600px 600px}}@-moz-keyframes animatedBackground{0{background-position:0 0}100%{background-position:-600px 600px}}@-webkit-keyframes animatedBackground{0{background-position:0 0}100%{background-position:-600px 600px}}@-o-keyframes animatedBackground{0{background-position:0 0}100%{background-position:-600px 600px}}#fon{position:relative;height:340px;width:100%;background:#065380;background-image:url(https://images.unsplash.com/photo-1489110804417-276c3f517515?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bd823e3d71853cf03e3096dbd0573604&auto=format&fit=crop&w=1350&q=80);animation:animatedBackground 60s linear infinite;-moz-animation:animatedBackground 60s linear infinite;-webkit-animation:animatedBackground 60s linear infinite;-o-animation:animatedBackground 60s linear infinite}#fon h2{position:absolute;width:80%;left:10%;top:50%;margin-top:-100px;color:#fff;border:0;text-align:center}
 
 .wrapper {
   position: absolute;
@@ -18,7 +18,22 @@
           animation: fadeIn 5s cubic-bezier(0.42, 0, 0.58, 1) forwards;
 }
 
-
+/* Header */
+.large-header {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background-image: url(https://images.unsplash.com/photo-1489110804417-276c3f517515?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bd823e3d71853cf03e3096dbd0573604&auto=format&fit=crop&w=1350&q=80);
+  -webkit-filter: blur(2px);
+  -o-filter: blur(2px);
+  -ms-filter: blur(2px);
+  filter: blur(2px);
+  position:fixed;
+  -webkit-animation:backgroundScroll 30s liner infinite;
+  animation:backgroundScroll 30s liner infinite;
+  background-position: top;
+  background-attacment: fixed;
+}
 
 .text-wrapper {
   position: absolute;
