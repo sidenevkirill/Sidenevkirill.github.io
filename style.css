@@ -26,6 +26,8 @@
   -o-filter: blur(2px);
   -ms-filter: blur(2px);
   filter: blur(2px);
+  position:fixed;
+  -webkit-animation:backgroundScroll 30s liner infinite;
   overflow: hidden;
   background-size: cover;
   background-position: center center;
