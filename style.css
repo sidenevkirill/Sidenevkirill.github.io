@@ -28,7 +28,8 @@
   filter: blur(2px);
   position:fixed;
   -webkit-animation:backgroundScroll 30s liner infinite;
-  
+  animation:backgroundScroll 30s liner infinite;
+  background-size: 130% 100%;
   overflow: hidden;
   background-size: cover;
   background-position: center center;
