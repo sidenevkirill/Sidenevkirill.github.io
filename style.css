@@ -5,6 +5,8 @@
   object-fit: cover;
 }
 
+@keyframes animatedBackground{0{background-position:0 0}100%{background-position:-600px 600px}}@-moz-keyframes animatedBackground{0{background-position:0 0}100%{background-position:-600px 600px}}@-webkit-keyframes animatedBackground{0{background-position:0 0}100%{background-position:-600px 600px}}@-o-keyframes animatedBackground{0{background-position:0 0}100%{background-position:-600px 600px}}#fon{position:relative;height:340px;width:100%;background:#065380;background-image:url(https://misha.blog/images/2016/03/css-animation-background.png);animation:animatedBackground 60s linear infinite;-moz-animation:animatedBackground 60s linear infinite;-webkit-animation:animatedBackground 60s linear infinite;-o-animation:animatedBackground 60s linear infinite}#fon h2{position:absolute;width:80%;left:10%;top:50%;margin-top:-100px;color:#fff;border:0;text-align:center}
+
 .wrapper {
   position: absolute;
   top: 0;
