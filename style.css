@@ -5,6 +5,27 @@
   object-fit: cover;
 }
 
+.btn-vk {
+    float: left;
+    width: 19px;
+    height: 19px;
+    background: url(//loadgram.xyz/images/androidd.png) no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 625px;
+    left: 790px;
+    bottom: 1px;
+    right: 15px;
+    border: 0px solid #dedede;
+    transition: 0.3s all ease;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+    -moz-box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+    box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+}
+
 .wrapper {
   position: absolute;
   top: 0;
