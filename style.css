@@ -7,13 +7,13 @@
 
 .btn-vk {
     float: left;
-    width: 19px;
-    height: 19px;
-    background: url(//loadgram.xyz/images/androidd.png) no-repeat;
+    width: 120px;
+    height: 120px;
+    background: url(https://lh3.googleusercontent.com/-4i_xtYxGnmw/AAAAAAAAAAI/AAAAAAAAAAA/AIcfdXBcn_yo8yXmNoGptb2P-K6bQNUDeg/s150-c-mo/photo.jpg) no-repeat;
     background-size: cover;
     position: absolute;
-    top: 625px;
-    left: 790px;
+    top: 120px;
+    left: 610px;
     bottom: 1px;
     right: 15px;
     border: 0px solid #dedede;
