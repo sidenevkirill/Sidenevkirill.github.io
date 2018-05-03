@@ -87,7 +87,7 @@
   width: 12em;
   height: 2em;
   left: 50%;
-  top: 0.5em;
+  top: 0;
   font-size: 4.2em;
   transform: translate3d(-50%, 0, 0);
 }
@@ -118,7 +118,7 @@
   position: absolute;
   width: 1em;
   height: 0.5em;
-  top: 33.333333%;
+  top: 37%;
   left: 25%;
 }
 
