@@ -1,0 +1,52 @@
+@media only screen and (max-width: 768px) {
+	div {
+		max-width: 728px;
+	}
+
+	h1 {
+		font-size: 72px;
+	}
+
+	h2 {
+		font-size: 20px;
+		line-height: 28px;
+	}
+
+	p {
+		font-size: 16px;
+		line-height:24px;
+	}
+
+	a {
+		font-size: 16px;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	div {
+		width: 280px;
+	}
+
+	h1 {
+		font-size: 56px;
+		line-height: 72px;
+	}
+
+	h2 {
+		font-size: 20px;
+		line-height: 28px;
+		margin-top: 40px;
+		margin-bottom: 40px;
+	}
+
+	#lang > a {
+		padding-bottom: 10px;
+	}
+
+	#portfolio {
+		
+	}
+
+
+
+}

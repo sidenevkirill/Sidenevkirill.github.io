@@ -1,0 +1,111 @@
+* {
+    transition: all 0.2s;
+}
+
+/*Позиционирование*/
+div {
+    font-family: 'Roboto', sans-serif;
+    max-width: 878px;
+    margin: auto;
+}
+
+#about {
+    width: 100%;
+    max-width: 424px;
+    float: left;
+    margin-right: 28px;
+    /*margin-bottom: 80px;*/
+}
+
+#work {
+    width: 100%;
+    max-width: 424px;
+    float: left;
+    /*margin-bottom: 80px;*/
+}
+
+#portfolio {
+    width: 100%;
+    max-width: 424px;
+    float: left;
+    margin-top: 40px;
+/*    margin-bottom: 100px;*/
+}
+
+#contact {
+    width: 100%;
+    max-width: 424px;
+    float: left;
+/*    margin-bottom: 100px;*/
+    margin-right: 28px;
+    margin-top: 40px;
+}
+
+#lang > a {
+    float: right;
+    text-align: right;
+    width: 60px;
+    padding-bottom: 80px;
+}
+
+/*Стили оформления*/
+h1 {
+    font-size: 82px;
+    color: #333;
+    letter-spacing: -0.46px;
+    line-height: 100px;
+    font-weight: 700;
+    margin-bottom: -18px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #999999;
+    letter-spacing: -0.22px;
+    line-height: 50px;
+    font-weight: 400;
+    margin-bottom: 80px;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #333;
+    letter-spacing: -0.14px;
+}
+
+p {
+    font-size: 16px;
+    color: #1a1a1a;
+    letter-spacing: -0.11px;
+    line-height: 24px;
+}
+
+a {
+/*    font-family: OpenSans-BoldItalic;*/
+    font-size: 16px;
+    color: #1a1a1a;
+    letter-spacing: -0.11px;
+    /*line-height: 20px;*/
+    text-decoration: none;
+    /*font-weight: 700;*/
+    color: #7b35fb;
+    /*font-style: italic;*/
+}
+
+a:hover {
+    color: #9056fb;
+    letter-spacing: -0.11px;
+    /*line-height: 20px;*/
+    /*font-weight: 700;*/
+    /*font-style: italic;*/
+}
+
+.caption {
+    font-size: 12px;
+    color: #999999;
+    letter-spacing: -0.09px;
+    line-height: 21px;
+    clear: both;
+    font-weight: 300;
+}
