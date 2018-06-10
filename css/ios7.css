@@ -22,6 +22,18 @@
     justify-content: space-between;
 }
 
+.TopMenu_links_2_v8D {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    height: 100%;
+}
+
+.TopMenuLink_navItem_2SbDN {
+    height: 53px;
+}
+
+
 
 /*!
  Basic iOS 7 CSS
