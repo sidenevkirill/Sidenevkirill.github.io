@@ -7,13 +7,23 @@
 
 .btn-vk {
     float: left;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    color: #f9f1e9;
+    text-align: center;
+    width: 12em;
+    height: 2em;
+    left: 50%;
+    top: 0;
+    font-size: 4.2em;
+    transform: translate3d(-50%, 0, 0);
     width: 120px;
     height: 120px;
     background: url(Sidenevkirill.github.io/img/did.png) no-repeat;
     background-size: cover;
     position: absolute;
     top: 120px;
-    left: 610px;
     bottom: 1px;
     right: 15px;
     border: 0px solid #dedede;
