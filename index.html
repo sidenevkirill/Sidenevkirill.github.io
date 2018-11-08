@@ -134,6 +134,14 @@
             return renderer;
         }
 
+        function tick() {
+            requestAnimationFrame(tick);
+
+            stats.begin();
+            proton.update();
+            //proton.stats.update(3);
+            stats.end();
+        }
       
     </script>
   
