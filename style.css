@@ -66,8 +66,8 @@
 .main-title {
   position: relative;
   margin: 0;
-  
-  padding-top: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   color: #f9f1e9;
   text-align: center;
   margin-left: 50%;
