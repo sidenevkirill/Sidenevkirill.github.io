@@ -1,1 +1,1 @@
-{"status":0,"errorType":4,"message":"group_id required"}
+{"status":"5","message":"wrong password"}
