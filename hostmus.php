@@ -39,9 +39,9 @@
 "id_category":"4",
 "id_playlist":"4",
 "num_song":"4",
-"name_song":"M\u1eb7t Tr\u1eddi C\u1ee7a Em",
-"image_song":"https:\/\/unpeeled-toes.000webhostapp.com\/images\/songs\/19c8d9340b18111044e084d806335fd9_1509176983.jpg",
-"singer_song":"Ph\u01b0\u01a1ng Ly , JustaTee\r\n",
+"name_song":"Bonsai",
+"image_song":"https://sun3-12.userapi.com/c858016/v858016225/6ae88/UbuaZVjuY1o.jpg",
+"singer_song":"Она",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
@@ -50,9 +50,9 @@
 "id_category":"5",
 "id_playlist":"5",
 "num_song":"5",
-"name_song":"M\u1eb7t Tr\u1eddi C\u1ee7a Em",
+"name_song":"Tanir, Tyomcha",
 "image_song":"https:\/\/unpeeled-toes.000webhostapp.com\/images\/songs\/19c8d9340b18111044e084d806335fd9_1509176983.jpg",
-"singer_song":"Ph\u01b0\u01a1ng Ly , JustaTee\r\n",
+"singer_song":"Da Da Da",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
