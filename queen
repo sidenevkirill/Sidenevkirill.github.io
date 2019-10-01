@@ -38,7 +38,7 @@
       "creation_date": "2016-05-13 10:03:06",
       "user": {
         "id": 198225115,
-        "name": "Digster France",
+        "name": "Пацаны с улиц выбиваются в люди",
         "tracklist": "https://api.deezer.com/user/198225115/flow",
         "type": "user"
       },
@@ -46,7 +46,7 @@
     },
     {
       "id": 3273007826,
-      "title": "Vinyl #1",
+      "title": "Zivert",
       "public": true,
       "nb_tracks": 91,
       "link": "https://www.deezer.com/playlist/3273007826",
@@ -60,7 +60,7 @@
       "creation_date": "2017-06-19 13:02:27",
       "user": {
         "id": 198225115,
-        "name": "Digster France",
+        "name": "Beverly Hills",
         "tracklist": "https://api.deezer.com/user/198225115/flow",
         "type": "user"
       },
