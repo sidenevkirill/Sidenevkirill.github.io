@@ -4,7 +4,7 @@
 "id_album":"1",
 "id_category":"1",
 "id_playlist":"2",
-"numSong":"1",
+"num_song":"1",
 "name_song":"Жак Энтони",
 "image_song":"https://sun9-3.userapi.com/c850724/v850724252/1beda4/DKaUjhJGIyY.jpg",
 "singer_song":"JAWS 2","link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Thay-La-Yeu-Thuong-OnlyC-Lou-Hoang.mp3"},
