@@ -9,7 +9,7 @@
 "name_song":"JONY",
 "image_song":"https://sun3-10.userapi.com/c857428/v857428882/723f7/Rxr-2mMJvuI.jpg",
 "singer_song":"Комета",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Thay-La-Yeu-Thuong-OnlyC-Lou-Hoang.mp3"},
+"link_song":"https://firebasestorage.googleapis.com/v0/b/pineapple-f6de6.appspot.com/o/Solven%20-%20%20Let%E2%80%99s%20Get%20It%20(Original%20Mix)%20(1).mp3?alt=media&token=8e41cfeb-d1ca-4d02-ab21-7edc291aa2de"},
 
 {
 "id_song":"2",
