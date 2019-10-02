@@ -61,9 +61,9 @@
 "id_category":"6",
 "id_playlist":"6",
 "num_song":"6",
-"name_song":"M\u1eb7t Tr\u1eddi C\u1ee7a Em",
-"image_song":"https:\/\/unpeeled-toes.000webhostapp.com\/images\/songs\/19c8d9340b18111044e084d806335fd9_1509176983.jpg",
-"singer_song":"Ph\u01b0\u01a1ng Ly , JustaTee\r\n",
+"name_song":"NILETTO",
+"image_song":"https://sun3-10.userapi.com/c851128/v851128188/108b41/lsB98vLQya4.jpg",
+"singer_song":"Любимка",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
