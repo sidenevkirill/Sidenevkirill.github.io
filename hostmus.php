@@ -6,10 +6,10 @@
 "id_category":"1",
 "id_playlist":"2",
 "num_song":"1",
-"name_song":"JONY",
-"image_song":"https://sun3-10.userapi.com/c857428/v857428882/723f7/Rxr-2mMJvuI.jpg",
-"singer_song":"Комета",
-"link_song":"https://firebasestorage.googleapis.com/v0/b/pineapple-f6de6.appspot.com/o/Solven%20-%20%20Let%E2%80%99s%20Get%20It%20(Original%20Mix)%20(1).mp3?alt=media&token=8e41cfeb-d1ca-4d02-ab21-7edc291aa2de"},
+"name_song":"Егор Крид",
+"image_song":"https://hitmo.org/cover/song/65505752.jpg",
+"singer_song":"Сердцеедка",
+"link_song":"https://hitmo.org/get/music/20190717/muzlome_Egor_Krid_-_Serdceedka_65505752.mp3"},
 
 {
 "id_song":"2",
