@@ -17,10 +17,10 @@
 "id_category":"2",
 "id_playlist":"2",
 "num_song":"2",
-"name_song":"Zivert",
-"image_song":"https://sun9-45.userapi.com/c855728/v855728881/cc4f6/eYC1hEFmfbE.jpg",
-"singer_song":"Credo",
-"link_song":"https://hitmo.org/get/music/20190717/muzlome_Egor_Krid_-_Serdceedka_65505752.mp3"},
+"name_song":"Tanir, Tyomcha",
+"image_song":"https://hitmo.org/cover/song/66384585.jpg",
+"singer_song":"Da Da Da",
+"link_song":"https://hitmo.org/get/music/20190902/muzlome_Tanir_Tyomcha_-_Da_Da_Da_66384585.mp3"},
 
 {
 "id_song":"3",
