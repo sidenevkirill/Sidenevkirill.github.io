@@ -20,7 +20,7 @@
 "name_song":"Zivert",
 "image_song":"https://sun9-45.userapi.com/c855728/v855728881/cc4f6/eYC1hEFmfbE.jpg",
 "singer_song":"Credo",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://hitmo.org/get/music/20190717/muzlome_Egor_Krid_-_Serdceedka_65505752.mp3"},
 
 {
 "id_song":"3",
