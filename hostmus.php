@@ -28,10 +28,10 @@
 "id_category":"3",
 "id_playlist":"3",
 "num_song":"3",
-"name_song":"SAINt JHN",
-"image_song":"https://sun3-12.userapi.com/c851124/v851124096/1bd7a6/jbiLaiOCOsI.jpg",
-"singer_song":"Roses (Imanbek Remix)",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"name_song":"Нурминский",
+"image_song":"https://hitmo.org/cover/song/66621751.jpg",
+"singer_song":"Валим",
+"link_song":"https://hitmo.org/get/music/20190918/muzlome_Nurminskijj_-_Valim_66621751.mp3"},
 
 {
 "id_song":"4",
