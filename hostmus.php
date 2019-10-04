@@ -39,10 +39,10 @@
 "id_category":"4",
 "id_playlist":"4",
 "num_song":"4",
-"name_song":"Bonsai",
+"name_song":"Zivert",
 "image_song":"https://sun3-12.userapi.com/c858016/v858016225/6ae88/UbuaZVjuY1o.jpg",
-"singer_song":"Она",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"singer_song":"Beverly Hills",
+"link_song":"https://hitmo.org/get/music/20190906/muzlome_Zivert_-_Beverly_Hills_66445686.mp3"},
 
 {
 "id_song":"5",
