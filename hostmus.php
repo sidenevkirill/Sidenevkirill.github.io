@@ -64,7 +64,7 @@
 "name_song":"NILETTO",
 "image_song":"https://sun3-10.userapi.com/c851128/v851128188/108b41/lsB98vLQya4.jpg",
 "singer_song":"Любимка",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://hitmo.org/get/music/20190503/muzlome_NILETTO_-_Lyubimka_63911927.mp3"},
 
 {
 "id_song":"7",
