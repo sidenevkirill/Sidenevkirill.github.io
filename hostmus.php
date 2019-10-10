@@ -29,7 +29,7 @@
 "id_playlist":"3",
 "num_song":"3",
 "name_song":"JONY",
-"image_song":"https://hitmo.org/cover/song/66621751.jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=9513393&size=50x50&ext=jpg",
 "singer_song":"Комета",
 "link_song":"https://hitmo.org/get/music/20190918/muzlome_Nurminskijj_-_Valim_66621751.mp3"},
 
@@ -40,7 +40,7 @@
 "id_playlist":"4",
 "num_song":"4",
 "name_song":"SAINt JHN",
-"image_song":"https://sun3-12.userapi.com/c858016/v858016225/6ae88/UbuaZVjuY1o.jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=9492563&size=50x50&ext=jpg",
 "singer_song":"Roses",
 "link_song":"https://hitmo.org/get/music/20190906/muzlome_Zivert_-_Beverly_Hills_66445686.mp3"},
 
@@ -51,7 +51,7 @@
 "id_playlist":"5",
 "num_song":"5",
 "name_song":"FACE",
-"image_song":"https://sun3-10.userapi.com/c851420/v851420866/18f657/ruhhDJnT4Ik.jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=9571400&size=50x50&ext=jpg",
 "singer_song":"СВЯЩЕННИК",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
@@ -62,7 +62,7 @@
 "id_playlist":"6",
 "num_song":"6",
 "name_song":"Макс Корж",
-"image_song":"https://sun3-10.userapi.com/c851128/v851128188/108b41/lsB98vLQya4.jpg",
+"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9339261&size=50x50&ext=jpg",
 "singer_song":"2 типа людей",
 "link_song":"https://hitmo.org/get/music/20190503/muzlome_NILETTO_-_Lyubimka_63911927.mp3"},
 
