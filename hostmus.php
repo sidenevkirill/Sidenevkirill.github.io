@@ -73,7 +73,7 @@
 "id_playlist":"7",
 "num_song":"7",
 "name_song":"GAYAZOV$ BROTHER$",
-"image_song":"https:\/\/unpeeled-toes.000webhostapp.com\/images\/songs\/19c8d9340b18111044e084d806335fd9_1509176983.jpg",
+"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9620580&size=50x50&ext=jpg",
 "singer_song":"Увезите меня на Дип-хаус",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
@@ -84,7 +84,7 @@
 "id_playlist":"8",
 "num_song":"8",
 "name_song":"FILV, Edmofo feat. Emma Peters",
-"image_song":"https:\/\/unpeeled-toes.000webhostapp.com\/images\/songs\/19c8d9340b18111044e084d806335fd9_1509176983.jpg",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=9393827&size=50x50&ext=jpg",
 "singer_song":"Clandestina",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
@@ -95,7 +95,7 @@
 "id_playlist":"9",
 "num_song":"9",
 "name_song":"HammAli & Navai",
-"image_song":"https:\/\/unpeeled-toes.000webhostapp.com\/images\/songs\/19c8d9340b18111044e084d806335fd9_1509176983.jpg",
+"image_song":"https://cdn51.zvooq.com/pic?type=release&id=8975751&size=50x50&ext=jpg",
 "singer_song":"Прятки",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
@@ -106,6 +106,6 @@
 "id_playlist":"10",
 "num_song":"10",
 "name_song":"Shawn Mendes, Camila Cabello",
-"image_song":"https:\/\/unpeeled-toes.000webhostapp.com\/images\/songs\/19c8d9340b18111044e084d806335fd9_1509176983.jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=8896969&size=50x50&ext=jpg",
 "singer_song":"Señorita",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"}]
