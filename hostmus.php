@@ -6,10 +6,10 @@
 "id_category":"1",
 "id_playlist":"2",
 "num_song":"1",
-"name_song":"Егор Крид",
-"image_song":"https://hitmo.org/cover/song/65505752.jpg",
-"singer_song":"Сердцеедка",
-"link_song":"https://hitmo.org/get/music/20190717/muzlome_Egor_Krid_-_Serdceedka_65505752.mp3"},
+"name_song":"ЗАВТРА БРОШУ",
+"image_song":"https://sun9-59.userapi.com/c844618/v844618760/b46f5/eKgZG41WcF4.jpg",
+"singer_song":"Завтра брошу",
+"link_song":"https://cs3-1v4.vkuseraudio.net/p23/2ab9a8ea0601fd.mp3?extra=8pkDpzVqZzhhE6BQXQFAseZmTZQDIPfbKphqVbWCpQTp7ZbuC7gBU0NmIHW4P3EhQKYVnDe9Ov9ekwxw26kvEBMYBa1xddfl1m85pqbefPC420ABAzZ3_VIR2tMnuponhfFXErJg_L_INeU1hpRDERNAQul0"},
 
 {
 "id_song":"2",
