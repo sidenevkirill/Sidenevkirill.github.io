@@ -6,9 +6,9 @@
 "id_category":"1",
 "id_playlist":"2",
 "num_song":"1",
-"name_song":"ЗАВТРА БРОШУ",
-"image_song":"https://sun9-59.userapi.com/c844618/v844618760/b46f5/eKgZG41WcF4.jpg",
-"singer_song":"Завтра брошу",
+"name_song":"Zivert",
+"image_song":"https://cdn51.zvooq.com/pic?type=release&id=9350408&size=90x90&ext=jpg",
+"singer_song":"Credo",
 "link_song":"https://cs3-1v4.vkuseraudio.net/p23/2ab9a8ea0601fd.mp3?extra=8pkDpzVqZzhhE6BQXQFAseZmTZQDIPfbKphqVbWCpQTp7ZbuC7gBU0NmIHW4P3EhQKYVnDe9Ov9ekwxw26kvEBMYBa1xddfl1m85pqbefPC420ABAzZ3_VIR2tMnuponhfFXErJg_L_INeU1hpRDERNAQul0"},
 
 {
