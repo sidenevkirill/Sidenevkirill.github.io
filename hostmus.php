@@ -106,7 +106,7 @@
 "id_playlist":"11",
 "num_song":"10",
 "name_song":"Bonsai",
-"image_song":"https://cdn51.zvooq.com/pic?type=release&id=8975751&size=50x50&ext=jpg",
+"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9447718&size=50x50&ext=jpg",
 "singer_song":"Она",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
