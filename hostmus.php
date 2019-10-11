@@ -108,28 +108,6 @@
 "name_song":"Shawn Mendes, Camila Cabello",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=8896969&size=50x50&ext=jpg",
 "singer_song":"Señorita",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
-
-{
-"id_song":"11",
-"id_album":"11",
-"id_category":"11",
-"id_playlist":"11,
-"num_song":"11",
-"name_song":"Bonsai",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9447718&size=50x50&ext=jpg",
-"singer_song":"Она",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
-
-{
-"id_song":"12",
-"id_album":"12",
-"id_category":"12",
-"id_playlist":"12",
-"num_song":"12",
-"name_song":"Noize MC",
-"image_song":"https://cdn42.zvooq.com/pic?type=release&id=9487750&size=50x50&ext=jpg",
-"singer_song":"Всё как у людей",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"}
 
 ]
