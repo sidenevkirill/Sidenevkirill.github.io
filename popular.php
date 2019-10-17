@@ -4,7 +4,7 @@
 "id_song":"1",
 "name_song":"Zivert",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=9350408&size=90x90&ext=jpg",
-"singer_song":"Credo",
+"singer_song":"pop",
 "link_song":"https://cs3-1v4.vkuseraudio.net/p22/dc0d9560c40fe7.mp3?extra=u3MQEDQ1aFU4GMgU6uBcEEra_s86eIkUgUf5-JeqXSS7MQ_VuGMryEHBk4b_ccHNIa5YulxkGs5l_lMeQTjwo6Zv2uqjfzFhXOf4vDZbVCM2TWxDgTO1JIOAATht2QHfML7f70gs57dppft9EBL6f7q0lg"},
 
 {
@@ -728,7 +728,7 @@
 
 {
 "id_song":"99",
-"name_song":"Тима Белорусских",
+"name_song":"poop",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
 "singer_song":"Найду тебя",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
