@@ -2,9 +2,6 @@
 
 {
 "id_song":"1",
-"id_album":"1",
-"id_category":"1",
-"id_playlist":"1",
 "name_song":"Zivert",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=9350408&size=90x90&ext=jpg",
 "singer_song":"Credo",
