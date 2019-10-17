@@ -101,6 +101,17 @@
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
+"id_song":"12",
+"id_album":"12",
+"id_category":"12",
+"id_playlist":"12",
+"name_song":"Miko",
+"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9003117&size=50x50&ext=jpg",
+"singer_song":"Девочка в тренде",
+"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+
+
+{
 "id_song":"10",
 "id_album":"10",
 "id_category":"10",
