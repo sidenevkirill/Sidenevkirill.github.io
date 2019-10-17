@@ -112,65 +112,65 @@
 "id_album":"13",
 "id_category":"13",
 "id_playlist":"13",
-"name_song":"Тима Белорусских",
+"name_song":"NILETTO",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"singer_song":"Любимка",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"14",
-"name_song":"Тима Белорусских",
+"name_song":"Billie Eilish",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"singer_song":"bad guy",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"15",
-"name_song":"Тима Белорусских",
+"name_song":"RASA",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"singer_song":"Пчеловод",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"16",
-"name_song":"Тима Белорусских",
+"name_song":"Мот",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"singer_song":"Перекрестки",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"17",
-"name_song":"Тима Белорусских",
+"name_song":"MORGENSHTERN",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"singer_song":"Новый Мерин",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"18",
-"name_song":"Тима Белорусских",
+"name_song":"RASA",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"singer_song":"Забери меня",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"19",
-"name_song":"Тима Белорусских",
+"name_song":"Artik & Asti",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"singer_song":"Под гипнозом",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"20",
-"name_song":"Тима Белорусских",
+"name_song":"Элджей feat. Era Istrefi",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"singer_song":"Sayonara детка",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"21",
-"name_song":"Тима Белорусских",
+"name_song":"Shawn Mendes, Camila Cabello",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"singer_song":"Señorita",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
