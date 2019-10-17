@@ -90,7 +90,7 @@
     },
     {
       "id": 5072035764,
-      "title": "Bohemian Rhapsody: The Cast Playlist",
+      "title": "LASCALA",
       "public": true,
       "nb_tracks": 47,
       "link": "https://www.deezer.com/playlist/5072035764",
@@ -104,7 +104,7 @@
       "creation_date": "2018-11-06 09:24:23",
       "user": {
         "id": 1483650282,
-        "name": "Deezer By Artists",
+        "name": "Agonia",
         "tracklist": "https://api.deezer.com/user/1483650282/flow",
         "type": "user"
       },
@@ -112,12 +112,12 @@
     },
     {
       "id": 6505893864,
-      "title": "Queen",
+      "title": "ХЛЕБ",
       "public": true,
       "nb_tracks": 76,
       "link": "https://www.deezer.com/playlist/6505893864",
       "picture": "https://api.deezer.com/playlist/6505893864/image",
-      "picture_small": "https://cdns-images.dzcdn.net/images/cover/29cab9bf6a34949dfb288b9465224961-9c3d9a0b897e1ad9ef54142cec95ffa1-fa63381faefb51fba501498bc836765a-518738a2c485a7ea27ef52ded999902f/56x56-000000-80-0-0.jpg",
+      "picture_small": "https://cdn51.zvooq.com/pic?type=release&id=9697128&size=800x800&ext=jpg",
       "picture_medium": "https://cdns-images.dzcdn.net/images/cover/29cab9bf6a34949dfb288b9465224961-9c3d9a0b897e1ad9ef54142cec95ffa1-fa63381faefb51fba501498bc836765a-518738a2c485a7ea27ef52ded999902f/250x250-000000-80-0-0.jpg",
       "picture_big": "https://cdns-images.dzcdn.net/images/cover/29cab9bf6a34949dfb288b9465224961-9c3d9a0b897e1ad9ef54142cec95ffa1-fa63381faefb51fba501498bc836765a-518738a2c485a7ea27ef52ded999902f/500x500-000000-80-0-0.jpg",
       "picture_xl": "https://cdns-images.dzcdn.net/images/cover/29cab9bf6a34949dfb288b9465224961-9c3d9a0b897e1ad9ef54142cec95ffa1-fa63381faefb51fba501498bc836765a-518738a2c485a7ea27ef52ded999902f/1000x1000-000000-80-0-0.jpg",
@@ -126,7 +126,7 @@
       "creation_date": "2019-09-07 19:46:56",
       "user": {
         "id": 1324168704,
-        "name": "Станислав.Лобоцкий",
+        "name": "ЗВЁЗДЫ",
         "tracklist": "https://api.deezer.com/user/1324168704/flow",
         "type": "user"
       },
