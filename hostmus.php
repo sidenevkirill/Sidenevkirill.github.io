@@ -162,7 +162,7 @@
 {
 "id_song":"20",
 "name_song":"Элджей feat. Era Istrefi",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=8896969&size=50x50&ext=jpg",
 "singer_song":"Sayonara детка",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
@@ -175,23 +175,23 @@
 
 {
 "id_song":"22",
-"name_song":"Тима Белорусских",
+"name_song":"Andro",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"singer_song":"Болен твоей улыбкой",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"23",
-"name_song":"Тима Белорусских",
+"name_song":"Полина Гагарина",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"singer_song":"Смотри",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"24",
-"name_song":"Тима Белорусских",
+"name_song":"Artik & Asti, Артем Качер",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"singer_song":"Грустный дэнс (feat. Артем Качер)",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
