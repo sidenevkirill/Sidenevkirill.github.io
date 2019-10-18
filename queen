@@ -134,12 +134,12 @@
     },
     {
       "id": 2571495004,
-      "title": "Best Rock of All Time: U2, Queen, RHCP...",
+      "title": "ST",
       "public": true,
       "nb_tracks": 68,
       "link": "https://www.deezer.com/playlist/2571495004",
       "picture": "https://api.deezer.com/playlist/2571495004/image",
-      "picture_small": "https://cdns-images.dzcdn.net/images/cover/94e650f8bfe979ee7b0a011943158640-6706f1154083f461a348508c28030a30-9087b7676d5f37612ee954d4ffc6f082-d4caa8cbf826cb0c9b885800604904c1/56x56-000000-80-0-0.jpg",
+      "picture_small": "https://cdn62.zvooq.com/pic?type=release&id=9686603&size=500x500&ext=jpg",
       "picture_medium": "https://cdns-images.dzcdn.net/images/cover/94e650f8bfe979ee7b0a011943158640-6706f1154083f461a348508c28030a30-9087b7676d5f37612ee954d4ffc6f082-d4caa8cbf826cb0c9b885800604904c1/250x250-000000-80-0-0.jpg",
       "picture_big": "https://cdns-images.dzcdn.net/images/cover/94e650f8bfe979ee7b0a011943158640-6706f1154083f461a348508c28030a30-9087b7676d5f37612ee954d4ffc6f082-d4caa8cbf826cb0c9b885800604904c1/500x500-000000-80-0-0.jpg",
       "picture_xl": "https://cdns-images.dzcdn.net/images/cover/94e650f8bfe979ee7b0a011943158640-6706f1154083f461a348508c28030a30-9087b7676d5f37612ee954d4ffc6f082-d4caa8cbf826cb0c9b885800604904c1/1000x1000-000000-80-0-0.jpg",
@@ -148,7 +148,7 @@
       "creation_date": "2016-12-17 16:27:44",
       "user": {
         "id": 365093555,
-        "name": "Walter7463",
+        "name": "ПОЭТ ДУЭТ",
         "tracklist": "https://api.deezer.com/user/365093555/flow",
         "type": "user"
       },
