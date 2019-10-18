@@ -519,84 +519,84 @@
 {
 "id_song":"71",
 "name_song":"Ilkay Sencan",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=8243010&size=90x90&ext=jpg",
 "singer_song":"Do It",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"72",
 "name_song":"AMCHI, TERNOVOY",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=8548407&size=90x90&ext=jpg",
 "singer_song":"Прочь",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"73",
 "name_song":"Наzима",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=9468377&size=90x90&ext=jpg",
 "singer_song":"Я твоя",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"74",
 "name_song":"#2Маши",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn51.zvooq.com/pic?type=release&id=7379283&size=90x90&ext=jpg",
 "singer_song":"Мама, я танцую",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"75",
 "name_song":"Ramil'",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=8244062&size=90x90&ext=jpg",
 "singer_song":"Вся такая в белом",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"76",
 "name_song":"Billie Eilish, Khalid",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=6593763&size=90x90&ext=jpg",
 "singer_song":"lovely",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"77",
 "name_song":"VERBEE",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=8622538&size=90x90&ext=jpg",
 "singer_song":"Давай взорвём",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"78",
 "name_song":"JONY",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=8746262&size=90x90&ext=jpg",
 "singer_song":"Ты меня пленила",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"79",
 "name_song":"Клава Кока",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=9632730&size=90x90&ext=jpg",
 "singer_song":"Ноги делают ноги",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"80",
 "name_song":"JONY",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=7549448&size=90x90&ext=jpg",
 "singer_song":"Френдзона",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"81",
 "name_song":"Тима Белорусских",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=7783075&size=90x90&ext=jpg",
 "singer_song":"Витаминка",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"82",
 "name_song":"T1One, Inur",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=7365957&size=90x90&ext=jpg",
 "singer_song":"Почему так больно",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
@@ -610,91 +610,91 @@
 {
 "id_song":"84",
 "name_song":"Ольга Бузова",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=9365325&size=90x90&ext=jpg",
 "singer_song":"Вот она я",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"85",
 "name_song":"Тима Белорусских",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=8686843&size=90x90&ext=jpg",
 "singer_song":"Алёнка",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"84",
 "name_song":"Strange",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=7223911&size=90x90&ext=jpg",
 "singer_song":"Зависай",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"85",
 "name_song":"Тима Белорусских",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=7247876&size=90x90&ext=jpg",
 "singer_song":"Незабудка",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"86",
 "name_song":"Миша Марвин",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=9632729&size=90x90&ext=jpg",
 "singer_song":"Дура",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"87",
 "name_song":"10AGE",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=9313965&size=90x90&ext=jpg",
 "singer_song":"Так нельзя",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"88",
 "name_song":"Ганвест",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=7222110&size=90x90&ext=jpg",
 "singer_song":"Никотин",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"89",
 "name_song":"Havana feat. Yaar",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn52.zvooq.com/pic?type=release&id=7701442&size=90x90&ext=jpg",
 "singer_song":"I Lost You",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"90",
 "name_song":"Andro",
-"image_song":"https://cdn62.zvooq.com/pic?type=release&id=8381169&size=50x50&ext=jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=8381169&size=90x90&ext=jpg",
 "singer_song":"Ночной рейс",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"91",
 "name_song":"Ramil', DAVA",
-"image_song":"https://cdn61.zvooq.com/pic?type=release&id=9210428&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=9210428&size=90x90&ext=jpg",
 "singer_song":"Танцуй как пчела",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"92",
 "name_song":"VERBEE",
-"image_song":"https://cdn62.zvooq.com/pic?type=release&id=9461210&size=50x50&ext=jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=9461210&size=90x90&ext=jpg",
 "singer_song":"Теряю разум",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"93",
 "name_song":"DAVA",
-"image_song":"https://cdn51.zvooq.com/pic?type=release&id=9004387&size=50x50&ext=jpg",
+"image_song":"https://cdn51.zvooq.com/pic?type=release&id=9004387&size=90x90&ext=jpg",
 "singer_song":"БУДУ ПЬЯНЫМ",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"94",
 "name_song":"Леша Свик",
-"image_song":"https://cdn62.zvooq.com/pic?type=release&id=8941953&size=64x64&ext=jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=8941953&size=90x90&ext=jpg",
 "singer_song":"Девчонка",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
