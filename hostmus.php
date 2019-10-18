@@ -113,49 +113,49 @@
 "id_category":"13",
 "id_playlist":"13",
 "name_song":"NILETTO",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=8394186&size=50x50&ext=jpg",
 "singer_song":"Любимка",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"14",
 "name_song":"Billie Eilish",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=8187246&size=50x50&ext=jpg",
 "singer_song":"bad guy",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"15",
 "name_song":"RASA",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn51.zvooq.com/pic?type=release&id=8981151&size=50x50&ext=jpg",
 "singer_song":"Пчеловод",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"16",
 "name_song":"Мот",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=9455140&size=50x50&ext=jpg",
 "singer_song":"Перекрестки",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"17",
 "name_song":"MORGENSHTERN",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=9397009&size=50x50&ext=jpg",
 "singer_song":"Новый Мерин",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"18",
 "name_song":"RASA",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=9600406&size=50x50&ext=jpg",
 "singer_song":"Забери меня",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"19",
 "name_song":"Artik & Asti",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=8186856&size=50x50&ext=jpg",
 "singer_song":"Под гипнозом",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
