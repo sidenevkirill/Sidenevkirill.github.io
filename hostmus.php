@@ -449,70 +449,70 @@
 {
 "id_song":"61",
 "name_song":"Артур Пирожков",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=8080275&size=50x50&ext=jpg",
 "singer_song":"Зацепила",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"62",
 "name_song":"Daddy Yankee, Snow",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=7751932&size=50x50&ext=jpg",
 "singer_song":"Con Calma",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"63",
 "name_song":"Миа Бойка",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=9600232&size=50x50&ext=jpg",
 "singer_song":"Ананас Адидас",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"64",
 "name_song":"MiyaGi & Эндшпиль, Рем Дигга",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=5267081&size=50x50&ext=jpg",
 "singer_song":"I Got Love",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"65",
 "name_song":"10AGE, Hanza",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=8777449&size=50x50&ext=jpg",
 "singer_song":"Пишешь мне пока",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"66",
 "name_song":"MriD",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=8164879&size=50x50&ext=jpg",
 "singer_song":"Дикий яд",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"67",
 "name_song":"FACE",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=9602457&size=90x90&ext=jpg",
 "singer_song":"ВЫХОДИ",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"68",
 "name_song":"Леша Свик",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=8941953&size=90x90&ext=jpg",
 "singer_song":"Луна",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"69",
 "name_song":"Ганвест",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=9270441&size=90x90&ext=jpg",
 "singer_song":"Хулиган",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"70",
 "name_song":"Feduk",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=9638568&size=90x90&ext=jpg",
 "singer_song":"Мой город",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
