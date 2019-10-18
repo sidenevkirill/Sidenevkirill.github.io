@@ -5,7 +5,7 @@
 "name_song":"Zivert",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=9350408&size=90x90&ext=jpg",
 "singer_song":"Credo",
-"link_song":"//sidenevkir.beget.tech/music/SVYR%20-%20Phantoms.mp3"},
+"link_song":"https://muzek.000webhostapp.com/SVYR%20-%20Phantoms.mp3"},
 
 {
 "id_song":"2",
