@@ -211,14 +211,14 @@
 {
 "id_song":"27",
 "name_song":"HammAli & Navai",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=8054294&size=50x50&ext=jpg",
 "singer_song":"Девочка-война",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"28",
 "name_song":"ALEX&RUS",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=8960807&size=64x64&ext=jpg",
 "singer_song":"Дикая львица",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
