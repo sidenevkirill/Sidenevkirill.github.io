@@ -428,21 +428,21 @@
 {
 "id_song":"58",
 "name_song":"Meduza, Becky Hill, Goodboys",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=9649119&size=50x50&ext=jpg",
 "singer_song":"Lose Control",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"59",
 "name_song":"Zivert",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=6502709&size=50x50&ext=jpg",
 "singer_song":"Зелёные волны",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"60",
 "name_song":"Мот, Zivert",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=8732841&size=90x90&ext=jpg",
 "singer_song":"Паруса",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
