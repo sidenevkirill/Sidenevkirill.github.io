@@ -169,42 +169,42 @@
 {
 "id_song":"21",
 "name_song":"Shawn Mendes, Camila Cabello",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=8896969&size=50x50&ext=jpg",
 "singer_song":"Señorita",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"22",
 "name_song":"Andro",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn51.zvooq.com/pic?type=release&id=9285816&size=64x64&ext=jpg",
 "singer_song":"Болен твоей улыбкой",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"23",
 "name_song":"Полина Гагарина",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=9605104&size=50x50&ext=jpg",
 "singer_song":"Смотри",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"24",
 "name_song":"Artik & Asti, Артем Качер",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=8186856&size=64x64&ext=jpg",
 "singer_song":"Грустный дэнс (feat. Артем Качер)",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"25",
 "name_song":"JONY",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=8746262&size=90x90&ext=jpg",
 "singer_song":"Лали",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"26",
 "name_song":"Нурминский",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
+"image_song":"https://cdn51.zvooq.com/pic?type=release&id=9468017&size=50x50&ext=jpg",
 "singer_song":"Валим",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
