@@ -700,37 +700,37 @@
 
 {
 "id_song":"95",
-"name_song":"Тима Белорусских",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"name_song":"Post Malone",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=9468614&size=90x90&ext=jpg",
+"singer_song":"Circles",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"96",
-"name_song":"Тима Белорусских",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"name_song":"Lil Tecca",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=9399941&size=90x90&ext=jpg",
+"singer_song":"Ransom",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"97",
-"name_song":"Тима Белорусских",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"name_song":"KAZKA",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=6813801&size=90x90&ext=jpg",
+"singer_song":"ПЛАКАЛА",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"98",
-"name_song":"Тима Белорусских",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"name_song":"Gruppa Skryptonite, 104, T-Fest",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=9161368&size=90x90&ext=jpg",
+"singer_song":"3x3",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"99",
-"name_song":"Тима Белорусских",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
-"singer_song":"Найду тебя",
+"name_song":"Khia",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=7781893&size=90x90&ext=jpg",
+"singer_song":"My Neck, My Back",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 
