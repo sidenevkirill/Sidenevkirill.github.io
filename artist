@@ -2,12 +2,12 @@
   "data": [
     {
       "id": 4696861764,
-      "title": "Artist",
+      "title": "Zivert",
       "public": true,
       "nb_tracks": 21,
       "link": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/4696861764",
       "picture": "https://api.deezer.com/playlist/4696861764/image",
-      "picture_small": "https://e-cdns-images.dzcdn.net/images/cover/a083b5e2c956b2f6d4c0431f5a6bdb59/528x528-000000-80-0-0.jpg",
+      "picture_small": "https://cdn62.zvooq.com/pic?type=artist&id=99662297&size=600x600&ext=jpg",
       "picture_medium": "https://e-cdns-images.dzcdn.net/images/cover/a083b5e2c956b2f6d4c0431f5a6bdb59/528x528-000000-80-0-0.jpg",
       "picture_big": "https://cdns-images.dzcdn.net/images/playlist/b6fdd8f6ae6d49c4970e451db76046b8/500x500-000000-80-0-0.jpg",
       "picture_xl": "https://cdns-images.dzcdn.net/images/playlist/b6fdd8f6ae6d49c4970e451db76046b8/1000x1000-000000-80-0-0.jpg",
