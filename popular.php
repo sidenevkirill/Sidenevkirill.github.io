@@ -9,68 +9,65 @@
 
 {
 "id_song":"2",
-"name_song":"Tanir, Tyomcha",
-"image_song":"https://cdn51.zvooq.com/pic?type=release&id=9324512&size=50x50&ext=jpg",
-"singer_song":"Da Da Da",
+"name_song":"Елена Темникова",
+"image_song":"https://cdn51.zvooq.com/pic?type=release&id=9686986&size=90x90&ext=jpg",
+"singer_song":"STRESS",
 "link_song":"https://hitmo.org/get/music/20190902/muzlome_Tanir_Tyomcha_-_Da_Da_Da_66384585.mp3"},
 
 {
 "id_song":"3",
-"name_song":"JONY",
-"image_song":"https://cdn62.zvooq.com/pic?type=release&id=9513393&size=50x50&ext=jpg",
-"singer_song":"Комета",
+"name_song":"Тима Белорусских",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=9674405&size=90x90&ext=jpg",
+"singer_song":"Альфа и Омега",
 "link_song":"https://hitmo.org/get/music/20190918/muzlome_Nurminskijj_-_Valim_66621751.mp3"},
 
 {
 "id_song":"4",
-"name_song":"SAINt JHN",
-"image_song":"https://cdn62.zvooq.com/pic?type=release&id=9492563&size=50x50&ext=jpg",
-"singer_song":"Roses",
+"name_song":"Katy Perry",
+"image_song":"https://cdn51.zvooq.com/pic?type=release&id=9699865&size=90x90&ext=jpg",
+"singer_song":"Harleys In Hawaii",
 "link_song":"https://hitmo.org/get/music/20190906/muzlome_Zivert_-_Beverly_Hills_66445686.mp3"},
 
 {
 "id_song":"5",
-"id_album":"5",
-"id_category":"5",
-"id_playlist":"5",
-"name_song":"FACE",
-"image_song":"https://cdn61.zvooq.com/pic?type=release&id=9571400&size=50x50&ext=jpg",
-"singer_song":"СВЯЩЕННИК",
+"name_song":"Andy Panda, TumaniYO, Miyagi",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=9665905&size=90x90&ext=jpg",
+"singer_song":"Jumanji",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"6",
-"name_song":"Макс Корж",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9339261&size=50x50&ext=jpg",
-"singer_song":"2 типа людей",
+"name_song":"Au/Ra, Alan Walker",
+"image_song":"https://cdn62.zvooq.com/pic?type=release&id=9699674&size=90x90&ext=jpg",
+"singer_song":"Ghost",
 "link_song":"https://hitmo.org/get/music/20190503/muzlome_NILETTO_-_Lyubimka_63911927.mp3"},
 
 {
 "id_song":"7",
-"name_song":"GAYAZOV$ BROTHER$",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9620580&size=50x50&ext=jpg",
-"singer_song":"Увезите меня на Дип-хаус",
+"name_song":"BTS, Lauv",
+"image_song":"https://cdn61.zvooq.com/pic?type=release&id=9706230&size=90x90&ext=jpg",
+"singer_song":"Make It Right (feat. Lauv)",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"8",
-"name_song":"FILV, Edmofo feat. Emma Peters",
-"image_song":"https://cdn41.zvooq.com/pic?type=release&id=9393827&size=50x50&ext=jpg",
-"singer_song":"Clandestina",
+"name_song":"Thomas Mraz",
+"image_song":"https://cdn41.zvooq.com/pic?type=release&id=9609958&size=90x90&ext=jpg",
+"singer_song":"Ангел-А",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"9",
-"name_song":"HammAli & Navai",
-"image_song":"https://cdn51.zvooq.com/pic?type=release&id=8975751&size=50x50&ext=jpg",
-"singer_song":"Прятки",
+"name_song":"CAKEBOY, GONE.Fludd",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=9699480&size=90x90&ext=jpg",
+"singer_song":"НОВЫЙ ДЕНЬ (feat. GONE.Fludd)",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
 "id_song":"11",
-"name_song":"Bonsai",
-"image_song":"https://cdn52.zvooq.com/pic?type=release&id=9447718&size=50x50&ext=jpg",
-"singer_song":"Она",
+"name_song":"ХЛЕБ",
+"image_song":"https://cdn51.zvooq.com/pic?type=release&id=9697128&size=90x90&ext=jpg",
+"singer_song":"ПОЦ И ЛАВАЦА",
 "link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
 
 {
