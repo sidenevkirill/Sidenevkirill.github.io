@@ -5,7 +5,7 @@
 "name_song":"Zivert",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=9350408&size=90x90&ext=jpg",
 "singer_song":"Credo",
-"link_song":"https://muzek.000webhostapp.com/SVYR%20-%20Phantoms.mp3"},
+"link_song":"https://muzlo.me/get/music/20190927/muzlome_Zivert_-_Credo_66751495.mp3"},
 
 {
 "id_song":"2",
@@ -25,7 +25,7 @@
 "name_song":"JONY",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=9513393&size=50x50&ext=jpg",
 "singer_song":"Комета",
-"link_song":"https://muzlo.me/get/music/20190918/muzlome_Nurminskijj_-_Valim_66621751.mp3"},
+"link_song":"https://muzlo.me/get/music/20190921/muzlome_JONY_-_Kometa_66671270.mp3"},
 
 {
 "id_song":"4",
@@ -164,7 +164,7 @@
 "name_song":"Элджей feat. Era Istrefi",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=8896969&size=50x50&ext=jpg",
 "singer_song":"Sayonara детка",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190903/muzlome_MORGENSHTERN_-_Novyjj_Merin_66404393.mp3"},
 
 {
 "id_song":"21",
