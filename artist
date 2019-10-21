@@ -15,7 +15,7 @@
       "tracklist": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/tracks",
       "creation_date": "2018-07-23 13:50:03",
       "user": {
-        "id": 1990304482,
+        "id": 1,
         "name": "поп-певица",
         "tracklist": "https://api.deezer.com/user/1990304482/flow",
         "type": "user"
@@ -37,7 +37,7 @@
       "tracklist": "https://api.deezer.com/playlist/1819888242/tracks",
       "creation_date": "2016-05-13 10:03:06",
       "user": {
-        "id": 198225115,
+        "id": 2,
         "name": "поп-музыкант",
         "tracklist": "https://api.deezer.com/user/198225115/flow",
         "type": "user"
@@ -59,7 +59,7 @@
       "tracklist": "https://api.deezer.com/playlist/3273007826/tracks",
       "creation_date": "2017-06-19 13:02:27",
       "user": {
-        "id": 198225115,
+        "id": 3,
         "name": "поп-музыкант",
         "tracklist": "https://api.deezer.com/user/198225115/flow",
         "type": "user"
@@ -81,7 +81,7 @@
       "tracklist": "https://api.deezer.com/playlist/4615243408/tracks",
       "creation_date": "2018-06-28 19:49:18",
       "user": {
-        "id": 2011434546,
+        "id": 4,
         "name": "российский рэп-дуэт",
         "tracklist": "https://api.deezer.com/user/2011434546/flow",
         "type": "user"
@@ -103,7 +103,7 @@
       "tracklist": "https://api.deezer.com/playlist/5072035764/tracks",
       "creation_date": "2018-11-06 09:24:23",
       "user": {
-        "id": 1483650282,
+        "id": 5,
         "name": "хип-хоп",
         "tracklist": "https://api.deezer.com/user/1483650282/flow",
         "type": "user"
@@ -125,7 +125,7 @@
       "tracklist": "https://api.deezer.com/playlist/6505893864/tracks",
       "creation_date": "2019-09-07 19:46:56",
       "user": {
-        "id": 1324168704,
+        "id": 6,
         "name": "Хип-хоп",
         "tracklist": "https://api.deezer.com/user/1324168704/flow",
         "type": "user"
@@ -147,7 +147,7 @@
       "tracklist": "https://api.deezer.com/playlist/2571495004/tracks",
       "creation_date": "2016-12-17 16:27:44",
       "user": {
-        "id": 365093555,
+        "id": 7,
         "name": "Хип-хоп",
         "tracklist": "https://api.deezer.com/user/365093555/flow",
         "type": "user"
