@@ -12,7 +12,7 @@
 "name_song":"Елена Темникова",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=9686986&size=90x90&ext=jpg",
 "singer_song":"STRESS",
-"link_song":"https://hitmo.org/get/music/20190902/muzlome_Tanir_Tyomcha_-_Da_Da_Da_66384585.mp3"},
+"link_song":"https://muzek.000webhostapp.com/Trippie%20Redd%20-%20Loyalty%20Before%20Royalty.mp3"},
 
 {
 "id_song":"3",
