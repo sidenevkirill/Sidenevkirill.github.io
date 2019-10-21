@@ -25,7 +25,7 @@
 "name_song":"JONY",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=9513393&size=50x50&ext=jpg",
 "singer_song":"Комета",
-"link_song":"https://muzlo.me/get/music/20190921/muzlome_JONY_-_Kometa_66671270.mp3"},
+"link_song":"https://muzlo.me/get/music/20190918/muzlome_Nurminskijj_-_Valim_66621751.mp3"},
 
 {
 "id_song":"4",
