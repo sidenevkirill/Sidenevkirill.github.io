@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "id": 4696861764,
+      "id": 1,
       "title": "Zivert",
       "public": true,
       "nb_tracks": 21,
@@ -23,7 +23,7 @@
       "type": "playlist"
     },
     {
-      "id": 1819888242,
+      "id": 2,
       "title": "Jony",
       "public": true,
       "nb_tracks": 86,
@@ -45,7 +45,7 @@
       "type": "playlist"
     },
     {
-      "id": 3273007826,
+      "id": 3,
       "title": "Тима Белорусских",
       "public": true,
       "nb_tracks": 91,
@@ -67,7 +67,7 @@
       "type": "playlist"
     },
     {
-      "id": 4615243408,
+      "id": 4,
       "title": "HammAli & Navai'",
       "public": true,
       "nb_tracks": 79,
@@ -89,7 +89,7 @@
       "type": "playlist"
     },
     {
-      "id": 5072035764,
+      "id": 5,
       "title": "Miyagi",
       "public": true,
       "nb_tracks": 47,
@@ -111,7 +111,7 @@
       "type": "playlist"
     },
     {
-      "id": 6505893864,
+      "id": 6,
       "title": "VERBEE",
       "public": true,
       "nb_tracks": 76,
@@ -133,7 +133,7 @@
       "type": "playlist"
     },
     {
-      "id": 2571495004,
+      "id": 7,
       "title": "Макс Корж",
       "public": true,
       "nb_tracks": 68,
