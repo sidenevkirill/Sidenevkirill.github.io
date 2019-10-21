@@ -248,13 +248,13 @@
   },
   "album": {
     "id": "915785",
-    "title": "A Night At The Opera (2011 Remaster)",
+    "title": "Море музыки и весь контент личной медиатеки",
     "link": "https://www.deezer.com/album/915785",
     "cover": "https://api.deezer.com/album/915785/image",
     "cover_small": "https://cdn62.zvooq.com/pic?type=artist&id=99662297&size=600x600&ext=jpg",
-    "cover_medium": "https://cdns-images.dzcdn.net/images/cover/6706f1154083f461a348508c28030a30/250x250-000000-80-0-0.jpg",
-    "cover_big": "https://cdns-images.dzcdn.net/images/cover/6706f1154083f461a348508c28030a30/500x500-000000-80-0-0.jpg",
-    "cover_xl": "https://cdns-images.dzcdn.net/images/cover/6706f1154083f461a348508c28030a30/1000x1000-000000-80-0-0.jpg",
+    "cover_medium": "https://cdn62.zvooq.com/pic?type=artist&id=99662297&size=600x600&ext=jpg",
+    "cover_big": "https://cdn62.zvooq.com/pic?type=artist&id=99662297&size=600x600&ext=jpg",
+    "cover_xl": "https://cdn62.zvooq.com/pic?type=artist&id=99662297&size=600x600&ext=jpg",
     "release_date": "2011-01-01",
     "tracklist": "https://api.deezer.com/album/915785/tracks",
     "type": "album"
