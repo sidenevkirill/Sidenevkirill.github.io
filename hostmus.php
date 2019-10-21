@@ -45,7 +45,7 @@
 "name_song":"FACE",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=9571400&size=50x50&ext=jpg",
 "singer_song":"СВЯЩЕННИК",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190926/muzlome_FACE_-_Svyashhennik_66741246.mp3"},
 
 {
 "id_song":"6",
@@ -55,7 +55,7 @@
 "name_song":"Макс Корж",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9339261&size=50x50&ext=jpg",
 "singer_song":"2 типа людей",
-"link_song":"https://hitmo.org/get/music/20190503/muzlome_NILETTO_-_Lyubimka_63911927.mp3"},
+"link_song":"https://muzlo.me/get/music/20190823/muzlome_Maks_Korzh_-_2_tipa_lyudejj_66225125.mp3"},
 
 {
 "id_song":"7",
@@ -75,7 +75,7 @@
 "name_song":"FILV, Edmofo feat. Emma Peters",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=9393827&size=50x50&ext=jpg",
 "singer_song":"Clandestina",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190722/muzlome_FILV_Edmofo_feat_Emma_Peters_-_Clandestina_65617686.mp3"},
 
 {
 "id_song":"9",
@@ -85,7 +85,7 @@
 "name_song":"HammAli & Navai",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=8975751&size=50x50&ext=jpg",
 "singer_song":"Прятки",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190710/muzlome_HammAli_Navai_-_Pryatki_65347953.mp3"},
 
 {
 "id_song":"11",
@@ -95,7 +95,7 @@
 "name_song":"Bonsai",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9447718&size=50x50&ext=jpg",
 "singer_song":"Она",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190911/muzlome_Bonsai_-_Ona_66521503.mp3"},
 
 {
 "id_song":"12",
@@ -105,7 +105,7 @@
 "name_song":"Miko",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9003117&size=50x50&ext=jpg",
 "singer_song":"Девочка в тренде",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190809/muzlome_Miko_-_Devochka_v_trende_65985947.mp3"},
 
 {
 "id_song":"13",
@@ -122,21 +122,21 @@
 "name_song":"Billie Eilish",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=8187246&size=50x50&ext=jpg",
 "singer_song":"bad guy",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190330/muzlome_Billie_Eilish_-_bad_guy_63154737.mp3"},
 
 {
 "id_song":"15",
 "name_song":"RASA",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=8981151&size=50x50&ext=jpg",
 "singer_song":"Пчеловод",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190710/muzlome_RASA_-_Pchelovod_65347747.mp3"},
 
 {
 "id_song":"16",
 "name_song":"Мот",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=9455140&size=50x50&ext=jpg",
 "singer_song":"Перекрестки",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190917/muzlome_MoT_-_Perekrestki_66607276.mp3"},
 
 {
 "id_song":"17",
@@ -150,14 +150,14 @@
 "name_song":"RASA",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=9600406&size=50x50&ext=jpg",
 "singer_song":"Забери меня",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191005/muzlome_RASA_-_Zaberi_menya_66849113.mp3"},
 
 {
 "id_song":"19",
 "name_song":"Artik & Asti",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=8186856&size=50x50&ext=jpg",
 "singer_song":"Под гипнозом",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190830/muzlome_Artik_Asti_-_Pod_gipnozom_66336012.mp3"},
 
 {
 "id_song":"20",
@@ -171,42 +171,42 @@
 "name_song":"Shawn Mendes, Camila Cabello",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=8896969&size=50x50&ext=jpg",
 "singer_song":"Señorita",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190710/muzlome_Shawn_Mendes_Camila_Cabello_-_Seorita_65347680.mp3"},
 
 {
 "id_song":"22",
 "name_song":"Andro",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=9285816&size=64x64&ext=jpg",
 "singer_song":"Болен твоей улыбкой",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190822/muzlome_Andro_-_Bolen_tvoejj_ulybkojj_66205617.mp3"},
 
 {
 "id_song":"23",
 "name_song":"Полина Гагарина",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=9605104&size=50x50&ext=jpg",
 "singer_song":"Смотри",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191012/muzlome_Polina_Gagarina_-_Smotri_66925975.mp3"},
 
 {
 "id_song":"24",
 "name_song":"Artik & Asti, Артем Качер",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=8186856&size=64x64&ext=jpg",
 "singer_song":"Грустный дэнс (feat. Артем Качер)",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190215/muzlome_Artik_Asti_feat_Artem_Kacher_-_Grustnyjj_djens_feat_Artem_Kacher_62123431.mp3"},
 
 {
 "id_song":"25",
 "name_song":"JONY",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=8746262&size=90x90&ext=jpg",
 "singer_song":"Лали",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190710/muzlome_JONY_-_Lali_65347843.mp3"},
 
 {
 "id_song":"26",
 "name_song":"Нурминский",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=9468017&size=50x50&ext=jpg",
 "singer_song":"Валим",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190918/muzlome_Nurminskijj_-_Valim_66621751.mp3"},
 
 {
 "id_song":"27",
