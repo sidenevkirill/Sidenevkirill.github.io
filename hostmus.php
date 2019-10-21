@@ -143,7 +143,7 @@
 "name_song":"MORGENSHTERN",
 "image_song":"https://cdn42.zvooq.com/pic?type=release&id=9397009&size=50x50&ext=jpg",
 "singer_song":"Новый Мерин",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190903/muzlome_MORGENSHTERN_-_Novyjj_Merin_66404393.mp3"},
 
 {
 "id_song":"18",
