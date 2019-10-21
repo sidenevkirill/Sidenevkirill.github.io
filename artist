@@ -133,13 +133,79 @@
       "type": "playlist"
     },
     {
+      "id": 8,
+      "title": "Ramil'",
+      "public": true,
+      "nb_tracks": 76,
+      "link": "https://www.deezer.com/playlist/6505893864",
+      "picture": "https://api.deezer.com/playlist/6505893864/image",
+      "picture_small": "https://cdn41.zvooq.com/pic?type=artist&id=209393149&size=500x500&ext=jpg",
+      "picture_medium": "https://cdns-images.dzcdn.net/images/cover/29cab9bf6a34949dfb288b9465224961-9c3d9a0b897e1ad9ef54142cec95ffa1-fa63381faefb51fba501498bc836765a-518738a2c485a7ea27ef52ded999902f/250x250-000000-80-0-0.jpg",
+      "picture_big": "https://cdns-images.dzcdn.net/images/cover/29cab9bf6a34949dfb288b9465224961-9c3d9a0b897e1ad9ef54142cec95ffa1-fa63381faefb51fba501498bc836765a-518738a2c485a7ea27ef52ded999902f/500x500-000000-80-0-0.jpg",
+      "picture_xl": "https://cdns-images.dzcdn.net/images/cover/29cab9bf6a34949dfb288b9465224961-9c3d9a0b897e1ad9ef54142cec95ffa1-fa63381faefb51fba501498bc836765a-518738a2c485a7ea27ef52ded999902f/1000x1000-000000-80-0-0.jpg",
+      "checksum": "361d175f789746ece6b23ea5e722620c",
+      "tracklist": "https://api.deezer.com/playlist/6505893864/tracks",
+      "creation_date": "2019-09-07 19:46:56",
+      "user": {
+        "id": 8,
+        "name": "Поп-музыкант",
+        "tracklist": "https://api.deezer.com/user/1324168704/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    },
+    {
+      "id": 9,
+      "title": "Rasa",
+      "public": true,
+      "nb_tracks": 76,
+      "link": "https://www.deezer.com/playlist/6505893864",
+      "picture": "https://api.deezer.com/playlist/6505893864/image",
+      "picture_small": "https://cdn42.zvooq.com/pic?type=artist&id=572141&size=500x500&ext=jpg",
+      "picture_medium": "https://cdns-images.dzcdn.net/images/cover/29cab9bf6a34949dfb288b9465224961-9c3d9a0b897e1ad9ef54142cec95ffa1-fa63381faefb51fba501498bc836765a-518738a2c485a7ea27ef52ded999902f/250x250-000000-80-0-0.jpg",
+      "picture_big": "https://cdns-images.dzcdn.net/images/cover/29cab9bf6a34949dfb288b9465224961-9c3d9a0b897e1ad9ef54142cec95ffa1-fa63381faefb51fba501498bc836765a-518738a2c485a7ea27ef52ded999902f/500x500-000000-80-0-0.jpg",
+      "picture_xl": "https://cdns-images.dzcdn.net/images/cover/29cab9bf6a34949dfb288b9465224961-9c3d9a0b897e1ad9ef54142cec95ffa1-fa63381faefb51fba501498bc836765a-518738a2c485a7ea27ef52ded999902f/1000x1000-000000-80-0-0.jpg",
+      "checksum": "361d175f789746ece6b23ea5e722620c",
+      "tracklist": "https://api.deezer.com/playlist/6505893864/tracks",
+      "creation_date": "2019-09-07 19:46:56",
+      "user": {
+        "id": 9,
+        "name": "Хип-хоп",
+        "tracklist": "https://api.deezer.com/user/1324168704/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    },
+    {
+      "id": 10,
+      "title": "Нурминский",
+      "public": true,
+      "nb_tracks": 76,
+      "link": "https://www.deezer.com/playlist/6505893864",
+      "picture": "https://api.deezer.com/playlist/6505893864/image",
+      "picture_small": "https://cdn51.zvooq.com/pic?type=artist&id=182946011&size=500x500&ext=jpg",
+      "picture_medium": "https://cdns-images.dzcdn.net/images/cover/29cab9bf6a34949dfb288b9465224961-9c3d9a0b897e1ad9ef54142cec95ffa1-fa63381faefb51fba501498bc836765a-518738a2c485a7ea27ef52ded999902f/250x250-000000-80-0-0.jpg",
+      "picture_big": "https://cdns-images.dzcdn.net/images/cover/29cab9bf6a34949dfb288b9465224961-9c3d9a0b897e1ad9ef54142cec95ffa1-fa63381faefb51fba501498bc836765a-518738a2c485a7ea27ef52ded999902f/500x500-000000-80-0-0.jpg",
+      "picture_xl": "https://cdns-images.dzcdn.net/images/cover/29cab9bf6a34949dfb288b9465224961-9c3d9a0b897e1ad9ef54142cec95ffa1-fa63381faefb51fba501498bc836765a-518738a2c485a7ea27ef52ded999902f/1000x1000-000000-80-0-0.jpg",
+      "checksum": "361d175f789746ece6b23ea5e722620c",
+      "tracklist": "https://api.deezer.com/playlist/6505893864/tracks",
+      "creation_date": "2019-09-07 19:46:56",
+      "user": {
+        "id": 10,
+        "name": "Хип-хоп",
+        "tracklist": "https://api.deezer.com/user/1324168704/flow",
+        "type": "user"
+      },
+      "type": "playlist"
+    },
+    {
       "id": 7,
-      "title": "Макс Корж",
+      "title": "GAYAZOV$ BROTHER$",
       "public": true,
       "nb_tracks": 68,
       "link": "https://www.deezer.com/playlist/2571495004",
       "picture": "https://api.deezer.com/playlist/2571495004/image",
-      "picture_small": "https://cdn62.zvooq.com/pic?type=artist&id=3371789&size=500x500&ext=jpg",
+      "picture_small": "https://cdn61.zvooq.com/pic?type=artist&id=193865705&size=500x500&ext=jpg",
       "picture_medium": "https://cdns-images.dzcdn.net/images/cover/94e650f8bfe979ee7b0a011943158640-6706f1154083f461a348508c28030a30-9087b7676d5f37612ee954d4ffc6f082-d4caa8cbf826cb0c9b885800604904c1/250x250-000000-80-0-0.jpg",
       "picture_big": "https://cdns-images.dzcdn.net/images/cover/94e650f8bfe979ee7b0a011943158640-6706f1154083f461a348508c28030a30-9087b7676d5f37612ee954d4ffc6f082-d4caa8cbf826cb0c9b885800604904c1/500x500-000000-80-0-0.jpg",
       "picture_xl": "https://cdns-images.dzcdn.net/images/cover/94e650f8bfe979ee7b0a011943158640-6706f1154083f461a348508c28030a30-9087b7676d5f37612ee954d4ffc6f082-d4caa8cbf826cb0c9b885800604904c1/1000x1000-000000-80-0-0.jpg",
@@ -148,7 +214,7 @@
       "creation_date": "2016-12-17 16:27:44",
       "user": {
         "id": 7,
-        "name": "Хип-хоп",
+        "name": "Поп-музыка",
         "tracklist": "https://api.deezer.com/user/365093555/flow",
         "type": "user"
       },
