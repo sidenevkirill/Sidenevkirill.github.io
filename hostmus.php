@@ -162,7 +162,7 @@
 {
 "id_song":"20",
 "name_song":"Элджей feat. Era Istrefi",
-"image_song":"https://cdn62.zvooq.com/pic?type=release&id=8896969&size=50x50&ext=jpg",
+"image_song":"https://cdn42.zvooq.com/pic?type=release&id=8878434&size=90x90&ext=jpg",
 "singer_song":"Sayonara детка",
 "link_song":"https://muzlo.me/get/music/20190903/muzlome_MORGENSHTERN_-_Novyjj_Merin_66404393.mp3"},
 
@@ -416,322 +416,322 @@
 "name_song":"Y2K, bbno$",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=8954841&size=50x50&ext=jpg",
 "singer_song":"Lalala",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190710/muzlome_Y2K_bbno_-_Lalala_65374574.mp3"},
 
 {
 "id_song":"57",
 "name_song":"GAYAZOV$ BROTHER$",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=8108528&size=50x50&ext=jpg",
 "singer_song":"До встречи на танцполе",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190426/muzlome_GAYAZOV_BROTHER_-_Do_vstrechi_na_tancpole_63748321.mp3"},
 
 {
 "id_song":"58",
 "name_song":"Meduza, Becky Hill, Goodboys",
 "image_song":"https://cdn42.zvooq.com/pic?type=release&id=9649119&size=50x50&ext=jpg",
 "singer_song":"Lose Control",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191012/muzlome_Meduza_Becky_Hill_GOODBOYS_-_Lose_Control_66925984.mp3"},
 
 {
 "id_song":"59",
 "name_song":"Zivert",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=6502709&size=50x50&ext=jpg",
 "singer_song":"Зелёные волны",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190406/muzlome_Zivert_-_Zeljonye_volny_63320500.mp3"},
 
 {
 "id_song":"60",
 "name_song":"Мот, Zivert",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=8732841&size=90x90&ext=jpg",
 "singer_song":"Паруса",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190607/muzlome_Mot_Zivert_-_Parusa_64832889.mp3"},
 
 {
 "id_song":"61",
 "name_song":"Артур Пирожков",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=8080275&size=50x50&ext=jpg",
 "singer_song":"Зацепила",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190308/muzlome_Artur_Pirozhkov_-_Zacepila_62633997.mp3"},
 
 {
 "id_song":"62",
 "name_song":"Daddy Yankee, Snow",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=7751932&size=50x50&ext=jpg",
 "singer_song":"Con Calma",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190126/muzlome_Daddy_Yankee_Snow_-_Con_Calma_61664335.mp3"},
 
 {
 "id_song":"63",
 "name_song":"Миа Бойка",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=9600232&size=50x50&ext=jpg",
 "singer_song":"Ананас Адидас",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191006/muzlome_Mia_Bojjka_-_Ananas_Adidas_66860568.mp3"},
 
 {
 "id_song":"64",
 "name_song":"MiyaGi & Эндшпиль, Рем Дигга",
 "image_song":"https://cdn42.zvooq.com/pic?type=release&id=5267081&size=50x50&ext=jpg",
 "singer_song":"I Got Love",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190305/muzlome_BRSBEA_x_MiyaGi_JEndshpil_Rem_Digga-samba_salsa_-_I_Got_Love_2016_62587287.mp3"},
 
 {
 "id_song":"65",
 "name_song":"10AGE, Hanza",
 "image_song":"https://cdn42.zvooq.com/pic?type=release&id=8777449&size=50x50&ext=jpg",
 "singer_song":"Пишешь мне пока",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190615/muzlome_10AGE_Hanza_-_Pishesh_mne_poka_65046007.mp3"},
 
 {
 "id_song":"66",
 "name_song":"MriD",
 "image_song":"https://cdn42.zvooq.com/pic?type=release&id=8164879&size=50x50&ext=jpg",
 "singer_song":"Дикий яд",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190528/muzlome_MriD_-_Dikijj_yad_64577663.mp3"},
 
 {
 "id_song":"67",
 "name_song":"FACE",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=9602457&size=90x90&ext=jpg",
 "singer_song":"ВЫХОДИ",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191001/muzlome_FACE_-_VYKHODI_66800216.mp3"},
 
 {
 "id_song":"68",
 "name_song":"Леша Свик",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=8941953&size=90x90&ext=jpg",
 "singer_song":"Луна",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190703/muzlome_Lesha_Svik_-_Luna_65257996.mp3"},
 
 {
 "id_song":"69",
 "name_song":"Ганвест",
 "image_song":"https://cdn42.zvooq.com/pic?type=release&id=9270441&size=90x90&ext=jpg",
 "singer_song":"Хулиган",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190823/muzlome_Ganvest_-_KHuligan_66222400.mp3"},
 
 {
 "id_song":"70",
 "name_song":"Feduk",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=9638568&size=90x90&ext=jpg",
 "singer_song":"Мой город",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191011/muzlome_Feduk_-_Mojj_gorod_66914626.mp3"},
 
 {
 "id_song":"71",
 "name_song":"Ilkay Sencan",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=8243010&size=90x90&ext=jpg",
 "singer_song":"Do It",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190424/muzlome_Ilkay_Sencan_-_Do_It_63706114.mp3"},
 
 {
 "id_song":"72",
 "name_song":"AMCHI, TERNOVOY",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=8548407&size=90x90&ext=jpg",
 "singer_song":"Прочь",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190518/muzlome_AMCHI_TERNOVOY_-_Proch_64306742.mp3"},
 
 {
 "id_song":"73",
 "name_song":"Наzима",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=9468377&size=90x90&ext=jpg",
 "singer_song":"Я твоя",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190918/muzlome_NAZIMA_-_YA_tvoya_66621521.mp3"},
 
 {
 "id_song":"74",
 "name_song":"#2Маши",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=7379283&size=90x90&ext=jpg",
 "singer_song":"Мама, я танцую",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20181114/muzlome_2Mashi_-_Mama_ya_tancuyu_60292807.mp3"},
 
 {
 "id_song":"75",
 "name_song":"Ramil'",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=8244062&size=90x90&ext=jpg",
 "singer_song":"Вся такая в белом",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190414/muzlome_Ramil_-_Vsya_takaya_v_belom_63502584.mp3"},
 
 {
 "id_song":"76",
 "name_song":"Billie Eilish, Khalid",
 "image_song":"https://cdn42.zvooq.com/pic?type=release&id=6593763&size=90x90&ext=jpg",
 "singer_song":"lovely",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20180421/muzlome_Khalid_Billie_Eilish_-_lovely_55441014.mp3"},
 
 {
 "id_song":"77",
 "name_song":"VERBEE",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=8622538&size=90x90&ext=jpg",
 "singer_song":"Давай взорвём",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190530/muzlome_VERBEE_-_Davajj_vzorvjom_64630049.mp3"},
 
 {
 "id_song":"78",
 "name_song":"JONY",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=8746262&size=90x90&ext=jpg",
 "singer_song":"Ты меня пленила",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190710/muzlome_JONY_-_Ty_menya_plenila_65347841.mp3"},
 
 {
 "id_song":"79",
 "name_song":"Клава Кока",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=9632730&size=90x90&ext=jpg",
 "singer_song":"Ноги делают ноги",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191010/muzlome_Klava_Koka_-_Nogi_delayut_nogi_66904191.mp3"},
 
 {
 "id_song":"80",
 "name_song":"JONY",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=7549448&size=90x90&ext=jpg",
 "singer_song":"Френдзона",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190521/muzlome_JONY_-_rendzona_64374036.mp3"},
 
 {
 "id_song":"81",
 "name_song":"Тима Белорусских",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=7783075&size=90x90&ext=jpg",
 "singer_song":"Витаминка",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190131/muzlome_Tima_Belorusskikh_-_Vitaminka_61785491.mp3"},
 
 {
 "id_song":"82",
 "name_song":"T1One, Inur",
 "image_song":"https://cdn42.zvooq.com/pic?type=release&id=7365957&size=90x90&ext=jpg",
 "singer_song":"Почему так больно",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20181209/muzlome_T1One_Inur_-_Pochemu_tak_bolno_60836219.mp3"},
 
 {
 "id_song":"83",
 "name_song":"EMIN",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=9272441&size=50x50&ext=jpg",
 "singer_song":"Кружимся",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191009/muzlome_Emin_-_Kruzhimsya_66893385.mp3"},
 
 {
 "id_song":"84",
 "name_song":"Ольга Бузова",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=9365325&size=90x90&ext=jpg",
 "singer_song":"Вот она я",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190907/muzlome_Olga_Buzova_-_Vot_ona_ya_66465429.mp3"},
 
 {
 "id_song":"85",
 "name_song":"Тима Белорусских",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=8686843&size=90x90&ext=jpg",
 "singer_song":"Алёнка",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190615/muzlome_Tima_Belorusskikh_-_Aljonka_65045815.mp3"},
 
 {
 "id_song":"84",
 "name_song":"Strange",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=7223911&size=90x90&ext=jpg",
 "singer_song":"Зависай",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20181127/muzlome_Strange_-_Zavisajj_60573672.mp3"},
 
 {
 "id_song":"85",
 "name_song":"Тима Белорусских",
 "image_song":"https://cdn42.zvooq.com/pic?type=release&id=7247876&size=90x90&ext=jpg",
 "singer_song":"Незабудка",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20181026/muzlome_Tima_Belorusskikh_-_Nezabudka_59932823.mp3"},
 
 {
 "id_song":"86",
 "name_song":"Миша Марвин",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=9632729&size=90x90&ext=jpg",
 "singer_song":"Дура",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191010/muzlome_Misha_Marvin_-_Dura_66904201.mp3"},
 
 {
 "id_song":"87",
 "name_song":"10AGE",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=9313965&size=90x90&ext=jpg",
 "singer_song":"Так нельзя",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190830/muzlome_10AGE_-_Tak_nelzya_66334054.mp3"},
 
 {
 "id_song":"88",
 "name_song":"Ганвест",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=7222110&size=90x90&ext=jpg",
 "singer_song":"Никотин",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20181022/muzlome_Ganvest_-_Nikotin_59857405.mp3"},
 
 {
 "id_song":"89",
 "name_song":"Havana feat. Yaar",
 "image_song":"https://cdn52.zvooq.com/pic?type=release&id=7701442&size=90x90&ext=jpg",
 "singer_song":"I Lost You",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190414/muzlome_Havana_feat_Yaar_-_I_Lost_You_feat_Yaar_Radio_Edit_63510705.mp3"},
 
 {
 "id_song":"90",
 "name_song":"Andro",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=8381169&size=90x90&ext=jpg",
 "singer_song":"Ночной рейс",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190515/muzlome_Andro_-_Nochnojj_rejjs_64208787.mp3"},
 
 {
 "id_song":"91",
 "name_song":"Ramil', DAVA",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=9210428&size=90x90&ext=jpg",
 "singer_song":"Танцуй как пчела",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190802/muzlome_Ramil_-_Tancujj_kak_pchela_65837911.mp3"},
 
 {
 "id_song":"92",
 "name_song":"VERBEE",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=9461210&size=90x90&ext=jpg",
 "singer_song":"Теряю разум",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190911/muzlome_VERBEE_-_Teryayu_razum_66521506.mp3"},
 
 {
 "id_song":"93",
 "name_song":"DAVA",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=9004387&size=90x90&ext=jpg",
 "singer_song":"БУДУ ПЬЯНЫМ",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190710/muzlome_DAVA_-_BUDU_PYANYM_65356859.mp3"},
 
 {
 "id_song":"94",
 "name_song":"Леша Свик",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=8941953&size=90x90&ext=jpg",
 "singer_song":"Девчонка",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190710/muzlome_Ljosha_Svik_-_Devchonka_65356644.mp3"},
 
 {
 "id_song":"95",
 "name_song":"Post Malone",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=9468614&size=90x90&ext=jpg",
 "singer_song":"Circles",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190831/muzlome_Post_Malone_-_Circles_66355786.mp3"},
 
 {
 "id_song":"96",
 "name_song":"Lil Tecca",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=9399941&size=90x90&ext=jpg",
 "singer_song":"Ransom",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190614/muzlome_Lil_Tecca_-_Ransom_65009105.mp3"},
 
 {
 "id_song":"97",
 "name_song":"KAZKA",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=6813801&size=90x90&ext=jpg",
 "singer_song":"ПЛАКАЛА",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20181027/muzlome_Kazka_-_Plakala_59965125.mp3"},
 
 {
 "id_song":"98",
 "name_song":"Gruppa Skryptonite, 104, T-Fest",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=9161368&size=90x90&ext=jpg",
 "singer_song":"3x3",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20190728/muzlome_Gruppa_Skryptonite_T-Fest_104_-_3x3_65737992.mp3"},
 
 {
 "id_song":"99",
 "name_song":"Khia",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=7781893&size=90x90&ext=jpg",
 "singer_song":"My Neck, My Back",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20170903/muzlome_Khia_-_My_Neck_My_Back_48053030.mp3"},
 
 {
 "id_song":"10",
@@ -741,6 +741,6 @@
 "name_song":"Shawn Mendes, Camila Cabello",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=8896969&size=50x50&ext=jpg",
 "singer_song":"Señorita",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"}
+"link_song":"https://muzlo.me/get/music/20190710/muzlome_Shawn_Mendes_Camila_Cabello_-_Seorita_65347680.mp3"}
 
 ]
