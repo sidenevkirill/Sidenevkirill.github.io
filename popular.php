@@ -26,49 +26,49 @@
 "name_song":"Katy Perry",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=9699865&size=90x90&ext=jpg",
 "singer_song":"Harleys In Hawaii",
-"link_song":"https://hitmo.org/get/music/20190906/muzlome_Zivert_-_Beverly_Hills_66445686.mp3"},
+"link_song":"https://muzlo.me/get/music/20191018/muzlome_Katy_Perry_-_Harleys_In_Hawaii_66989943.mp3"},
 
 {
 "id_song":"5",
 "name_song":"Andy Panda, TumaniYO, Miyagi",
 "image_song":"https://cdn42.zvooq.com/pic?type=release&id=9665905&size=90x90&ext=jpg",
 "singer_song":"Jumanji",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191019/muzlome_Andy_Panda_Miyagi_TumaniYO_-_Jumanji_67001556.mp3"},
 
 {
 "id_song":"6",
 "name_song":"Au/Ra, Alan Walker",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=9699674&size=90x90&ext=jpg",
 "singer_song":"Ghost",
-"link_song":"https://hitmo.org/get/music/20190503/muzlome_NILETTO_-_Lyubimka_63911927.mp3"},
+"link_song":"https://muzlo.me/get/music/20191019/muzlome_AuRa_Alan_Walker_-_Ghost_67001542.mp3"},
 
 {
 "id_song":"7",
 "name_song":"BTS, Lauv",
 "image_song":"https://cdn61.zvooq.com/pic?type=release&id=9706230&size=90x90&ext=jpg",
 "singer_song":"Make It Right (feat. Lauv)",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191018/muzlome_BTS_-_Make_It_Right_feat_Lauv_66992816.mp3"},
 
 {
 "id_song":"8",
 "name_song":"Thomas Mraz",
 "image_song":"https://cdn41.zvooq.com/pic?type=release&id=9609958&size=90x90&ext=jpg",
 "singer_song":"Ангел-А",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191019/muzlome_Thomas_Mraz_-_Angel-A_67001518.mp3"},
 
 {
 "id_song":"9",
 "name_song":"CAKEBOY, GONE.Fludd",
 "image_song":"https://cdn42.zvooq.com/pic?type=release&id=9699480&size=90x90&ext=jpg",
 "singer_song":"НОВЫЙ ДЕНЬ (feat. GONE.Fludd)",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191018/muzlome_CAKEBOY_-_NOVYJJ_DEN_feat_prod_by_CAKEboy_prod_by_CAKEboy_66988587.mp3"},
 
 {
 "id_song":"11",
 "name_song":"ХЛЕБ",
 "image_song":"https://cdn51.zvooq.com/pic?type=release&id=9697128&size=90x90&ext=jpg",
 "singer_song":"ПОЦ И ЛАВАЦА",
-"link_song":"https:\/\/unpeeled-toes.000webhostapp.com\/songs\/Mat-Troi-Cua-Em-Phuong-Ly-JustaTee.mp3"},
+"link_song":"https://muzlo.me/get/music/20191018/muzlome_KHleb_-_POC_I_LAVACA_66989838.mp3"},
 
 {
 "id_song":"12",
