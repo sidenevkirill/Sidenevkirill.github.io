@@ -5,7 +5,7 @@
 "name_song":"ST feat. Artik & Asti",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=9686603&size=90x90&ext=jpg",
 "singer_song":"Моя Вина",
-"link_song":"https://muzek.000webhostapp.com/SVYR%20-%20Phantoms.mp3"},
+"link_song":"https://muzlo.me/get/music/20191018/muzlome_ST_feat_Artik_Asti_-_Moya_Vina_66991070.mp3"},
 
 {
 "id_song":"2",
@@ -19,7 +19,7 @@
 "name_song":"Тима Белорусских",
 "image_song":"https://cdn42.zvooq.com/pic?type=release&id=9674405&size=90x90&ext=jpg",
 "singer_song":"Альфа и Омега",
-"link_song":"https://hitmo.org/get/music/20190918/muzlome_Nurminskijj_-_Valim_66621751.mp3"},
+"link_song":"https://muzlo.me/get/music/20191017/muzlome_Tima_Belorusskikh_-_Alfa_i_Omega_66978563.mp3"},
 
 {
 "id_song":"4",
