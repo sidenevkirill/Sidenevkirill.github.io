@@ -3,7 +3,7 @@
 {
 "id_song":"1",
 "name_song":"Zivert",
-"image_song":"https://cdn51.zvooq.com/pic?type=release&id=9350408&size=90x90&ext=jpg",
+"image_song":"https://i1.sndcdn.com/artworks-000536328417-wg4psy-t500x500.jpg",
 "singer_song":"Credo",
 "link_song":"https://muzlo.me/get/music/20190927/muzlome_Zivert_-_Credo_66751495.mp3"},
 
