@@ -1,0 +1,27 @@
+.bookCover{
+    width: 30%;
+    margin: 0 1% 1% 0 ;
+    /* float: left; */
+   
+    /* display: block; */
+    height: 400px;
+    object-fit: cover;
+    border-radius: 20px 2px 20px 2px;
+    box-shadow: 15px 10px 50px 0 rgba(0, 0, 0, 0.8 );
+  }
+
+body>header h1 {
+    margin: 0;
+    text-align: center;
+    font-size: 18px;
+    line-height: 44px;
+}
+  
+  .bookImage{
+    margin-top: 40px;
+  
+  }
+  
+  .box{
+    margin: 0 8%;
+  }
