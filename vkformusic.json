@@ -1,9 +1,9 @@
 {
     "title": "Обновите приложение",
     "message": "Доступна новая версия приложения",
-    "version": "1.0",
-    "build": 1,
+    "version": "1.1",
+    "build": 2,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=ru.euphoria.moozza",
+    "link": "https://play.google.com/store/apps/details?id=ru.euphoria.moozz",
     "direct_link": ""
 }
