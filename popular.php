@@ -5,7 +5,7 @@
 "name_song":"ST feat. Artik & Asti",
 "image_song":"https://cdn62.zvooq.com/pic?type=release&id=9686603&size=90x90&ext=jpg",
 "singer_song":"Моя Вина",
-"link_song":"https://muzlo.me/get/music/20191018/muzlome_ST_feat_Artik_Asti_-_Moya_Vina_66991070.mp3"},
+"link_song":"https://cs1-73v4.vkuseraudio.net/p8/318d5d1e21b4f1.mp3?extra=gA34pjAe3hw2WMCfrKxzF6DZmYIXrYadyhxGBlhu5HBeMFkr2vtznKJnIccQWykSWiShCuib8POKKfCUXhpbM5Uh0ar_7WZE2JO3B1BR8QSKihLs85rNfFY6G-8SzJUDl_QGESEwcnGXR_4S-vciIOBVmg&long_chunk=1"},
 
 {
 "id_song":"2",
