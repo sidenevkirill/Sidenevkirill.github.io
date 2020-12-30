@@ -20,7 +20,7 @@
     transform: translate3d(-50%, 0, 0);
     width: 120px;
     height: 120px;
-    background: url(Sidenevkirill.github.io/img/did.png) no-repeat;
+    background: url(https://avatars2.githubusercontent.com/u/17927780?s=460&u=95245fbf6ff272e9cf5488c1f30c094346c17b10&v=4) no-repeat;
     background-size: cover;
     position: absolute;
     top: 120px;
@@ -34,6 +34,17 @@
     -webkit-box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
     -moz-box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
     box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 10;
+  font-size: 17px;
+  color: #fff;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
 }
 
 .wrapper {
