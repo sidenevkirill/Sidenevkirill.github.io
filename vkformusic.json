@@ -1,8 +1,8 @@
 {
     "title": "Обновите приложение",
     "message": "Доступна новая версия приложения",
-    "version": "1.0",
-    "build": 1,
+    "version": "1.3",
+    "build": 3,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=frogo.music",
     "direct_link": ""
