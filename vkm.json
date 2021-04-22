@@ -1,8 +1,8 @@
 {
     "title": "Обновите приложение",
     "message": "Доступна новая версия приложения",
-    "version": "1.4",
-    "build": 4,
+    "version": "2.3",
+    "build": 3,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=ru.tannu.moosic",
     "direct_link": ""
