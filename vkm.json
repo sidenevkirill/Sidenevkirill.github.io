@@ -1,9 +1,9 @@
 {
     "title": "Обновите приложение",
     "message": "Доступна новая версия приложения",
-    "version": "1.5",
-    "build": 15,
+    "version": "2.2",
+    "build": 2,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=ru.tannu.moosic",
+    "link": "https://play.google.com/store/apps/details?id=ru.dara.muzza",
     "direct_link": ""
 }
