@@ -1,8 +1,8 @@
 {
     "title": "Обновите приложение",
     "message": "Доступна новая версия приложения",
-    "version": "3.0",
-    "build": 30,
+    "version": "3.1",
+    "build": 31,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=ru.dara.muzza",
     "direct_link": ""
