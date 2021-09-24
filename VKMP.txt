@@ -1,7 +1,7 @@
 {
   "version": "1",
   "url_update": "http://vkmusic.net/vmusic.apk",
-  "url_google_play": "https://play.google.com/store/apps/details?id=com.perchikapps.vmusic",
+  "url_google_play": "https://play.google.com/store/apps/details?id=ru.blums.vkm",
   "update_info": "Р’С‹С€Р»Рѕ РѕР±РЅРѕРІР»РµРЅРёРµ РІ Google Play:)",
   "status": "РћР±РЅРѕРІР»РµРЅРёРµ",
   "status_info": "Р’С‹С€Р»Рѕ РѕР±РЅРѕРІР»РµРЅРёРµ РІ Google Play:)",
