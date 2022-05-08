@@ -1,9 +1,9 @@
 {
     "title": "Ообновите приложение",
     "message": "У нас вышла новая версия в Google Play",
-    "version": "0.1",
-    "build": 1,
+    "version": "10.5",
+    "build": 250,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=ru.musicvk.gangm",
+    "link": "https://play.google.com/store/apps/details?id=ru.dara.mussic",
     "direct_link": ""
 }
