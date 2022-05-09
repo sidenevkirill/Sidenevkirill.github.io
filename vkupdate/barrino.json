@@ -1,8 +1,8 @@
 {
     "title": "Ообновите приложение",
     "message": "У нас вышла новая версия в Google Play",
-    "version": "10.5",
-    "build": 250,
+    "version": "0.5",
+    "build": 1,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=ru.dara.mussic",
     "direct_link": ""
