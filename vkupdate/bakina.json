@@ -1,8 +1,8 @@
 {
     "title": "Оцените приложение",
     "message": "Поставьте нам оценку в Google Play",
-    "version": "0.7",
-    "build": 2,
+    "version": "25.7",
+    "build": 300,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=ru.dara.mussic",
     "direct_link": ""
