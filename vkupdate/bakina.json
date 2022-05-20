@@ -1,9 +1,9 @@
 {
-    "title": "Оцените приложение",
-    "message": "Поставьте нам оценку в Google Play",
-    "version": "25.7",
-    "build": 300,
+    "title": "Ообновите приложение",
+    "message": "У нас вышла новая версия в Google Play",
+    "version": "21.5",
+    "build": 700,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=ru.dara.mussic",
+    "link": "https://play.google.com/store/apps/details?id=ru.musicvk.gangm",
     "direct_link": ""
 }
