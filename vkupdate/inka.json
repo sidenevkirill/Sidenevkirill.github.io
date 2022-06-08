@@ -1,8 +1,8 @@
 {
-    "title": "Ообновите приложение",
-    "message": "У нас вышла новая версия в Google Play",
-    "version": "0.1",
-    "build": 1,
+    "title": "Оцениете приложение",
+    "message": "Вам понравилось приложение, поставьте нм оценку в Google Play",
+    "version": "20.1",
+    "build": 800,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=ru.music.vrm",
     "direct_link": ""
