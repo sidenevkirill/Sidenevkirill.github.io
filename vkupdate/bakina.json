@@ -1,9 +1,9 @@
 {
-    "title": "Ообновите приложение",
-    "message": "У нас вышла новая версия в Google Play",
-    "version": "0.1",
-    "build": 1,
+    "title": "Всем привет",
+    "message": "Попробуйте наше новое приложение",
+    "version": "30.1",
+    "build": 400,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=ru.vkmnews.music",
+    "link": "https://play.google.com/store/apps/details?id=ru.music.vkm",
     "direct_link": ""
 }
