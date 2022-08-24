@@ -1,9 +1,9 @@
 {
-    "title": "Оцените приложение",
-    "message": "Вам понравилось приложение, поставьте нам оценку в Google Play",
-    "version": "0.1",
-    "build": 1,
+    "title": "Обновите приложение",
+    "message": "Попробуйте наше новое приложение",
+    "version": "20.1",
+    "build": 100,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=ru.music.vrm",
+    "link": "https://play.google.com/store/apps/details?id=ru.music.vkm",
     "direct_link": ""
 }
