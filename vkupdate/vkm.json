@@ -1,9 +1,9 @@
 {
-    "title": "Оцените приложение",
-    "message": "Вам понравилось приложение, поставьте нам оценку в Google Play",
-    "version": "0.1",
-    "build": 1,
+    "title": "Подпишитесь на паблик ВКонтакте",
+    "message": "Хочешь быть в курсе все новостей ?",
+    "version": "20.1",
+    "build": 200,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=ru.music.vkm",
+    "link": "https://vk.com/vkmussic",
     "direct_link": ""
 }
