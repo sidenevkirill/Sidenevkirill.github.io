@@ -1,8 +1,8 @@
 {
     "title": "Слушайте новый альбом",
     "message": "Недавно вышел новый альбом от восходящий звезды Plinofficial",
-    "version": "20.1",
-    "build": 100,
+    "version": "0.1",
+    "build": 1,
     "type": "page",
     "link": "https://streamlink.to/CAPITALIPSIS",
     "direct_link": ""
