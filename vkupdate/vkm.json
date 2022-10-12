@@ -1,9 +1,9 @@
 {
-    "title": "Слушайте новый альбом",
-    "message": "Недавно вышел новый альбом от восходящий звезды Plinofficial",
-    "version": "0.1",
-    "build": 1,
+    "title": "Оцените приложение",
+    "message": "Вам понравилось приложение, поставьте нам оценку в Google Play",
+    "version": "20.1",
+    "build": 500,
     "type": "page",
-    "link": "https://streamlink.to/CAPITALIPSIS",
+    "link": "https://play.google.com/store/apps/details?id=ru.music.vkm",
     "direct_link": ""
 }
