@@ -1,7 +1,7 @@
 {
-    "title": "Оцените приложение",
-    "message": "Вам понравилось приложение, поставьте нам оценку в Google Play",
-    "version": "21.1",
+    "title": "Обновите приложение",
+    "message": "Вышла новая верисия приложения в Google Play",
+    "version": "22.1",
     "build": 300,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=ru.music.vkmoosic",
