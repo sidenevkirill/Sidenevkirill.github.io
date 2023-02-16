@@ -1,9 +1,9 @@
 {
-    "title": "Всем привет",
-    "message": "Попробуйте наше новое приложение",
-    "version": "0.1",
-    "build": 1,
+    "title": "Обновите приложение",
+    "message": "Вышла новая верисия приложения в Google Play",
+    "version": "22.1",
+    "build": 300,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=ru.music.vkm",
+    "link": "https://play.google.com/store/apps/details?id=ru.music.vkmoosic",
     "direct_link": ""
 }
