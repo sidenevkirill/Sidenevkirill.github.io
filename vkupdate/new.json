@@ -1,9 +1,9 @@
 {
     "title": "Обновите приложение",
     "message": "Вышла новая верисия приложения в Google Play",
-    "version": "22.6",
-    "build": 501,
-    "type": "direct",
+    "version": "0.1",
+    "build": 1,
+    "type": "page",
     "link": "https://play.google.com/store/apps/details?id=ru.music.vkmoosic",
-    "direct_link": "https://github.com/sidenevkirill/Sidenevkirill.github.io/raw/master/vkupdate/app-release.apk"
+    "direct_link": ""
 }
