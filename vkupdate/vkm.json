@@ -1,9 +1,8 @@
 {
-    "title": "Обновите приложение",
-    "message": "Вышла новая верисия приложения в Google Play",
-    "version": "22.1",
-    "build": 300,
+    "title": "Всем привет!",
+    "message": "У нас вышла новая игра в AppGallery",
+    "version": "10.1",
+    "build": 10,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=ru.music.vkmoosic",
-    "direct_link": ""
+    "link": "https://appgallery.cloud.huawei.com/ag/n/app/C109632445?locale=ru_RU&source=appshare&subsource=C109632445&shareTo=com.android.bluetooth&shareFrom=appmarket&shareIds=e0522f0f9da54e2e8ac719e4a70f5e5c_com.android.bluetooth-72f4216798ed4de699bd7c999f29b006_com.android.bluetooth&callType=SHARE": ""
 }
