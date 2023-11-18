@@ -1,10 +1,9 @@
-{ 
-лол
-     "title": "Объявление", 
-     "message": "Приглашаю тебя стать курьером-партнёром сервиса Яндекс.Еда",
-     "version": "30.7", 
-     "build": 300, 
-     "tcype": "pfage", 
-     "link": "https://ya.cc/4DYhz6",
-     "direct_link": "" 
- }
+{
+    "title": "Всем привет!",
+    "message": "У нас вышла новая игра в Rustore",
+    "version": "10.1",
+    "build": 10,
+    "type": "page",
+    "link": "https://apps.rustore.ru/app/ru.lisdevs.lounge",
+    "direct_link": ""  
+}
