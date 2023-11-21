@@ -1,9 +1,9 @@
 {
-    "title": "Обновите приложение",
-    "message": "Вышла новая верисия приложения в Google Play",
-    "version": "0.1",
-    "build": 1,
+    "title": "Всем привет!",
+    "message": "У нас вышла новая игра в Rustore",
+    "version": "10.1",
+    "build": 10,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=ru.music.vkmoosic",
-    "direct_link": ""
+    "link": "https://apps.rustore.ru/app/ru.lisdevs.lounge",
+    "direct_link": ""  
 }
