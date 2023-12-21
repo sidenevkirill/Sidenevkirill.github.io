@@ -1,9 +1,9 @@
 {
     "title": "Всем привет!",
-    "message": "У нас вышла новая игра в Rustore",
-    "version": "10.1",
-    "build": 10,
+    "message": "У нас вышла новая версия в Rustore",
+    "version": "20.1",
+    "build": 20,
     "type": "page",
-    "link": "https://apps.rustore.ru/app/ru.lisdevs.lounge",
+    "link": "https://apps.rustore.ru/app/ru.lisdevs.new",
     "direct_link": ""  
 }
