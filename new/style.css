@@ -1,0 +1,82 @@
+        body {
+			margin: 0 auto;
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+			font-size: 1rem;
+			font-weight: 400;
+			line-height: 1.5;
+			color: #212529;
+			text-align: left;
+			background-color: #fff;
+			padding: 20px;
+		}
+
+		header {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 44px;
+			z-index: 10;
+			background: rgba(249,249,249,.85);
+			border-bottom: 1px solid rgba(0,0,0,.1);
+			-webkit-backdrop-filter: blur(20px);
+			backdrop-filter: blur(20px);
+		}
+
+		h1 {
+			margin: 0;
+			text-align: center;
+			font-size: 18px;
+			line-height: 44px;
+		}
+
+		hr {
+			box-sizing: content-box;
+			height: 0;
+			overflow: visible;
+			margin-top: 1rem;
+			margin-bottom: 1rem;
+			border: 0;
+			border-top: 1px solid rgba(0, 0, 0, 0.1);
+		}
+
+		table {
+			border-collapse: collapse;
+			border-spacing: 0;
+			empty-cells: show;
+			border: 1px solid #cbcbcb;
+		}
+
+		table td,
+		table th {
+			border-left: 1px solid #cbcbcb;
+			border-width: 0 0 0 1px;
+			font-size: inherit;
+			margin: 0;
+			overflow: visible;
+			padding: 6px 12px;
+		}
+
+		table td:first-child,
+		table th:first-child {
+			border-left-width: 0;
+		}
+
+		table thead {
+			background: #e0e0e0;
+			color: #000;
+			text-align: left;
+			vertical-align: bottom;
+		}
+
+		table td {
+			background-color: transparent;
+			border-bottom: 1px solid #cbcbcb;
+		}
+
+		table tr:nth-child(2n) td {
+			background-color: #f2f2f2;
+		}
+		table tbody > tr:last-child td{
+			border-bottom-width: 0;
+		}
