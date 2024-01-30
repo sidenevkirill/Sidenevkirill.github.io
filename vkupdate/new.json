@@ -1,9 +1,9 @@
 {
-    "title": "Обновите приложение",
-    "message": "У нас вышла новая игра в rustore",
-    "version": "22.1",
-    "build": 300,
+    "title": "Всем привет!",
+    "message": "У нас вышла новая версия в Rustore",
+    "version": "20.1",
+    "build": 301,
     "type": "page",
-    "link": "https://apps.rustore.ru/app/ru.lisdevs.lounge",
-    "direct_link": ""
+    "link": "https://apps.rustore.ru/app/com.flaco_music.news",
+    "direct_link": ""  
 }
