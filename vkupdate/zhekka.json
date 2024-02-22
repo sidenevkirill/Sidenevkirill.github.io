@@ -1,9 +1,9 @@
 {
     "title": "Всем привет!",
-    "message": "У нас вышла новая игра в Rustore",
-    "version": "0.1",
-    "build": 1,
+    "message": "Попробуйте новое приложение в Rustore",
+    "version": "21.1",
+    "build": 25,
     "type": "page",
-    "link": "https://apps.rustore.ru/app/ru.lisdevs.lounge",
+    "link": "https://apps.rustore.ru/app/com.flaco_music.news",
     "direct_link": ""  
 }
