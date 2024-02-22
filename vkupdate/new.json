@@ -1,8 +1,8 @@
 {
     "title": "Всем привет!",
     "message": "У нас вышла новая версия в Rustore",
-    "version": "0.1",
-    "build": 1,
+    "version": "0.0",
+    "build": 0,
     "type": "page",
     "link": "https://apps.rustore.ru/app/com.flaco_music.news",
     "direct_link": ""  
