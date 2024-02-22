@@ -1,8 +1,8 @@
 {
     "title": "Всем привет!",
     "message": "Попробуйте новое приложение в Rustore",
-    "version": "21.1",
-    "build": 25,
+    "version": "0.1",
+    "build": 1,
     "type": "page",
     "link": "https://apps.rustore.ru/app/com.flaco_music.news",
     "direct_link": ""  
