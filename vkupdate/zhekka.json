@@ -1,8 +1,8 @@
 {
     "title": "Всем привет!",
     "message": "Скоро новая версия в Rustore",
-    "version": "32.1",
-    "build": 32,
+    "version": "0.1",
+    "build": 1,
     "type": "page",
     "link": "https://apps.rustore.ru/app/ru.lisdevs.new",
     "direct_link": ""  
