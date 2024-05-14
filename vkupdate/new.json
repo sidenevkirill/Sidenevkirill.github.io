@@ -1,9 +1,9 @@
 {
-    "title": "Оцените приложение!",
-    "message": "Хотите поставить нам оценку в Rustore ?",
-    "version": "0.0",
-    "build": 0,
+    "title": "Обновление!",
+    "message": "У нас вышла новая версия в Google Play",
+    "version": "30.1",
+    "build": 30.1,
     "type": "page",
-    "link": "https://apps.rustore.ru/app/ru.lisdevs.new",
+    "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.mooz",
     "direct_link": ""  
 }
