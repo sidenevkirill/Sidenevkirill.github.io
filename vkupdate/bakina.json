@@ -1,9 +1,9 @@
 {
-    "title": "Всем привет!",
-    "message": "Скоро новая версия в Rustore",
-    "version": "32.1",
-    "build": 32,
+    "title": "Обновление!",
+    "message": "У нас вышла новая версия в Google Play",
+    "version": "0.1",
+    "build": 1,
     "type": "page",
-    "link": "https://apps.rustore.ru/app/ru.lisdevs.new",
+    "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.mooz",
     "direct_link": ""  
 }
