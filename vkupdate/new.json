@@ -1,8 +1,8 @@
 {
     "title": "Вам нравится приложение ?",
     "message": "Поставьте нам оценку в Google Play",
-    "version": "10.1",
-    "build": 10,
+    "version": "20.1",
+    "build": 20,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.mooz",
     "direct_link": ""  
