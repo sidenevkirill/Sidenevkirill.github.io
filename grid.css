@@ -1,9 +1,6 @@
 .bookCover{
     width: 30%;
     margin: 0 1% 1% 0 ;
-    /* float: left; */
-   
-    /* display: block; */
     height: 400px;
     object-fit: cover;
     border-radius: 20px 2px 20px 2px;
@@ -13,11 +10,45 @@
 .bookNoCover {
     width: 30%;
     margin: 0 1% 1% 0;
-    /* float: left; */
-    /* display: block; */
     height: 400px;
     object-fit: cover;
     border-radius: 0px 0px 00px 0px;
+    box-shadow: 15px 10px 50px 0 rgba(0, 0, 0, 0.8);
+}
+
+.bookCoverTopRight {
+    width: 30%;
+    margin: 0 1% 1% 0;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 0px 20px 0px 2px;
+    box-shadow: 15px 10px 50px 0 rgba(0, 0, 0, 0.8);
+}
+
+.bookCoverTopLeft {
+    width: 30%;
+    margin: 0 1% 1% 0;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 20px 2px 0px 2px;
+    box-shadow: 15px 10px 50px 0 rgba(0, 0, 0, 0.8);
+}
+
+.bookCoverBottomRight {
+    width: 30%;
+    margin: 0 1% 1% 0;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 0px 2px 20px 0px;
+    box-shadow: 15px 10px 50px 0 rgba(0, 0, 0, 0.8);
+}
+
+.bookCoverBottomLeft {
+    width: 30%;
+    margin: 0 1% 1% 0;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 0px 0px 0px 20px;
     box-shadow: 15px 10px 50px 0 rgba(0, 0, 0, 0.8);
 }
 
