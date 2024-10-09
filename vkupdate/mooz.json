@@ -1,8 +1,8 @@
 {
     "title": "Обновление!",
     "message": "Обновите приложение в Google Play",
-    "version": "31.1",
-    "build": 31,
+    "version": "1.0",
+    "build": 1,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.mooz",
     "direct_link": ""  
