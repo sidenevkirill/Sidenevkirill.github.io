@@ -1,9 +1,9 @@
 {
     "title": "Обновление!",
-    "message": "Обновите приложение в Google Play",
-    "version": "31.1",
-    "build": 31,
+    "message": "Обновите приложение в Google Play!",
+    "version": "40.1",
+    "build": 400,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.mooz",
-    "direct_link": ""  
+    "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.vkm",
+    "direct_link": ""
 }
