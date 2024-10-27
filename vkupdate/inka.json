@@ -1,9 +1,9 @@
 {
     "title": "Обновление!",
-    "message": "У нас вышла новая версия в Google Play",
-    "version": "30.1",
-    "build": 30.1,
+    "message": "Обновите приложение в Google Play!",
+    "version": "40.1",
+    "build": 400,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.mooz",
-    "direct_link": ""  
+    "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.vkm",
+    "direct_link": ""
 }
