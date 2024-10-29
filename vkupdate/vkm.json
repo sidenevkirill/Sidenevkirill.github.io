@@ -1,8 +1,8 @@
 {
-    "title": "Вам нравится? приложение!",
+    "title": "Вам нравится приложение!",
     "message": "Оцените его пожалуйста в Google Play",
-    "version": "40.1",
-    "build": 401,
+    "version": "0.1.4",
+    "build": 14,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.vkm",
     "direct_link": ""  
