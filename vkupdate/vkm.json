@@ -1,8 +1,8 @@
 {
-    "title": "Обновление!",
-    "message": "У нас вышла новая версия в Google Play",
-    "version": "0.1",
-    "build": 0.1,
+    "title": "Вам нравится? приложение!",
+    "message": "Оцените его пожалуйста в Google Play",
+    "version": "40.1",
+    "build": 401,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.mooz",
     "direct_link": ""  
