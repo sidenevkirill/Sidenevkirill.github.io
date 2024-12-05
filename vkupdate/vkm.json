@@ -1,8 +1,8 @@
 {
     "title": "Вам нравится приложение!",
     "message": "Оцените его в Google Play",
-    "version": "0.0.1",
-    "build": 1,
+    "version": "0.3.6",
+    "build": 36,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.vkm",
     "direct_link": ""  
