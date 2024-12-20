@@ -1,9 +1,9 @@
 {
-    "title": "Обновление!",
-    "message": "У нас вышла новая версия в Google Play",
-    "version": "30.1",
-    "build": 30.1,
+    "title": "Музыкальный мир VKEva!",
+    "message": "Это приложение больше не поддерживается. Чтобы продолжить наслаждаться музыкой, скачайте наше новое приложение VKEva с улучшенными функциями и современным дизайном.",
+    "version": "3.0.0",
+    "build": 300,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.mooz",
+    "link": "https://play.google.com/store/apps/details?id=com.vkeva.music",
     "direct_link": ""  
 }
