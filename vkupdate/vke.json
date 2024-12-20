@@ -1,8 +1,8 @@
 {
     "title": "Музыкальный мир VKEva!",
     "message": "Это приложение больше не поддерживается. Чтобы продолжить наслаждаться музыкой, скачайте наше новое приложение VKEva с улучшенными функциями и современным дизайном.",
-    "version": "0.0.1",
-    "build": 1,
+    "version": "3.0.0",
+    "build": 300,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=com.vkeva.music",
     "direct_link": ""  
