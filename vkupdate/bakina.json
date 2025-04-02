@@ -1,8 +1,8 @@
 {
     "title": "Обновление!",
     "message": "Обновите приложение в Google Play!",
-    "version": "40.1",
-    "build": 400,
+    "version": "3.13",
+    "build": 113,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.vkm",
     "direct_link": ""
