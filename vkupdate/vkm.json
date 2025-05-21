@@ -1,8 +1,8 @@
 {
     "title": "У нас новое приложение!",
     "message": "Установите его из Google Play",
-    "version": "0.0.5",
-    "build": 5,
+    "version": "5.0.0",
+    "build": 500,
     "type": "page",
     "link": "https://play.google.com/store/apps/details?id=com.reitesstudios.vkm",
     "direct_link": ""  
