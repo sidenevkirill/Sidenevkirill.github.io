@@ -1,9 +1,9 @@
 {
-    "title": "Обновление!",
-    "message": "Обновите приложение в Google Play!",
-    "version": "40.1",
-    "build": 400,
+    "title": "Попробуйте новое приложение!",
+    "message": "Установите его из Rustore",
+    "version": "5.0.0",
+    "build": 500,
     "type": "page",
-    "link": "https://play.google.com/store/apps/details?id=com.vkeva.music",
-    "direct_link": ""
+    "link": "https://www.rustore.ru/catalog/app/ru.lisdevs.scrippy",
+    "direct_link": ""  
 }
