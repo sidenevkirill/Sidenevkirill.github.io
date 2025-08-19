@@ -1,0 +1,67 @@
+{
+  "playlists": [
+    {
+      "id": -21,
+      "title": "Для Вас",
+      "icon_name": "news",
+      "tag": "favorite_tracks",
+      "description": "Персональные рекомендации на основе вашего вкуса"
+    },
+    {
+      "id": -24,
+      "title": "Открытия",
+      "icon_name": "newone",
+      "tag": "weekly_top",
+      "description": "Новые артисты и треки, которые стоит послушать"
+    },
+    {
+      "id": -23,
+      "title": "Новинки",
+      "icon_name": "recplaylist",
+      "tag": "workout_mix",
+      "description": "Самые свежие релизы этой недели"
+    },
+    {
+      "id": -25,
+      "title": "Плейлист дня 1",
+      "icon_name": "playlist_one",
+      "tag": "relax_music",
+      "description": "Лучшие треки для начала дня с хорошим настроением"
+    },
+    {
+      "id": -26,
+      "title": "Плейлист дня 2",
+      "icon_name": "playlist_to",
+      "tag": "pop_hits",
+      "description": "Популярные хиты, которые все обсуждают"
+    },
+    {
+      "id": -27,
+      "title": "Плейлист дня 3",
+      "icon_name": "playlist_free",
+      "tag": "rock_collection",
+      "description": "Энергичные треки для активного дня"
+    },
+    {
+      "id": -28,
+      "title": "Плейлист дня 4",
+      "icon_name": "playlist_fo",
+      "tag": "best_2023",
+      "description": "Романтичные композиции для вечернего настроения"
+    },
+    {
+      "id": -29,
+      "title": "Плейлист дня 5",
+      "icon_name": "playlist_five",
+      "tag": "best_2023",
+      "description": "Экспериментальные звуки и неожиданные коллаборации"
+    },
+    {
+      "id": -22,
+      "title": "Плейлист недели",
+      "icon_name": "playlist_week",
+      "tag": "best_2023",
+      "description": "Итоги недели: самые популярные треки по версии слушателей"
+    }
+  ]
+}
