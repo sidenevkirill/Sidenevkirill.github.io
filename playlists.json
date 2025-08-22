@@ -5,14 +5,14 @@
       "title": "Для Вас",
       "icon_name": "news",
       "tag": "favorite_tracks",
-      "description": "Персональные рекомендации на основе вашего вкуса"
+      "description": "Обновлён сегодня"
     },
     {
       "id": -24,
       "title": "Открытия",
       "icon_name": "newone",
       "tag": "weekly_top",
-      "description": "Новые артисты и треки, которые стоит послушать"
+      "description": "Новое для вас"
     },
     {
       "id": -23,
