@@ -19,49 +19,49 @@
       "title": "Новинки",
       "icon_name": "recplaylist",
       "tag": "workout_mix",
-      "description": "Самые свежие релизы этой недели"
+      "description": "Самые свежие релизы недели"
     },
     {
       "id": -25,
       "title": "Плейлист дня 1",
       "icon_name": "playlist_one",
       "tag": "relax_music",
-      "description": "Лучшие треки для начала дня с хорошим настроением"
+      "description": "Лучшие треки для начала дня"
     },
     {
       "id": -26,
       "title": "Плейлист дня 2",
       "icon_name": "playlist_to",
       "tag": "pop_hits",
-      "description": "Популярные хиты, которые все обсуждают"
+      "description": "Популярные хиты"
     },
     {
       "id": -27,
       "title": "Плейлист дня 3",
       "icon_name": "playlist_free",
       "tag": "rock_collection",
-      "description": "Энергичные треки для активного дня"
+      "description": "Энергичные треки"
     },
     {
       "id": -28,
       "title": "Плейлист дня 4",
       "icon_name": "playlist_fo",
       "tag": "best_2023",
-      "description": "Романтичные композиции для вечернего настроения"
+      "description": "Романтичные композиции"
     },
     {
       "id": -29,
       "title": "Плейлист дня 5",
       "icon_name": "playlist_five",
       "tag": "best_2023",
-      "description": "Экспериментальные звуки и неожиданные коллаборации"
+      "description": "Экспериментальные звуки"
     },
     {
       "id": -22,
       "title": "Плейлист недели",
       "icon_name": "playlist_week",
       "tag": "best_2023",
-      "description": "Итоги недели: самые популярные треки по версии слушателей"
+      "description": "Итоги недели"
     }
   ]
 }
