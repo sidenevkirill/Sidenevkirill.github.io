@@ -1,8 +1,8 @@
 {
     "title": "Попробуйте новое приложение!",
     "message": "Установите его из Rustore",
-    "version": "5.0.0",
-    "build": 500,
+    "version": "0.0.1",
+    "build": 1,
     "type": "page",
     "link": "https://www.rustore.ru/catalog/app/ru.lisdevs.scrippy",
     "direct_link": ""  
