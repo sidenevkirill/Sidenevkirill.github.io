@@ -1,0 +1,61 @@
+{
+  "categories": [
+    {
+      "name": "Популярное",
+      "playlists": [
+        {
+          "id": 1,
+          "title": "Топ хиты",
+          "icon_name": "ic_popular",
+          "tag": "хиты",
+          "description": "Самые популярные треки"
+        },
+        {
+          "id": 2,
+          "title": "Новинки",
+          "icon_name": "ic_new",
+          "tag": "новое",
+          "description": "Свежие релизы"
+        }
+      ]
+    },
+    {
+      "name": "По настроению",
+      "playlists": [
+        {
+          "id": 3,
+          "title": "Для тренировки",
+          "icon_name": "ic_workout",
+          "tag": "спорт",
+          "description": "Энергичная музыка"
+        },
+        {
+          "id": 4,
+          "title": "Для релакса",
+          "icon_name": "ic_relax",
+          "tag": "расслабление",
+          "description": "Спокойные мелодии"
+        }
+      ]
+    },
+    {
+      "name": "Жанры",
+      "playlists": [
+        {
+          "id": 5,
+          "title": "Рок",
+          "icon_name": "ic_rock",
+          "tag": "рок",
+          "description": "Лучшие рок-композиции"
+        },
+        {
+          "id": 6,
+          "title": "Хип-хоп",
+          "icon_name": "ic_hiphop",
+          "tag": "хип-хоп",
+          "description": "Биты и рифмы"
+        }
+      ]
+    }
+  ]
+}
