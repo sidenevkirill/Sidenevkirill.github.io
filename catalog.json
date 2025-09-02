@@ -4,7 +4,8 @@
       "name": "Популярное",
       "playlists": [
         {
-          "id": 107,
+          "id": 1,
+          "owner_id": -147845620,
           "title": "Топ хиты",
           "icon_name": "ic_popular",
           "tag": "хиты",
@@ -12,6 +13,7 @@
         },
         {
           "id": 2,
+          "owner_id": -147845620,
           "title": "Новинки",
           "icon_name": "ic_new",
           "tag": "новое",
@@ -24,6 +26,7 @@
       "playlists": [
         {
           "id": 3,
+          "owner_id": -147845620,
           "title": "Для тренировки",
           "icon_name": "ic_workout",
           "tag": "спорт",
@@ -31,6 +34,7 @@
         },
         {
           "id": 4,
+          "owner_id": -147845620,
           "title": "Для релакса",
           "icon_name": "ic_relax",
           "tag": "расслабление",
@@ -43,6 +47,7 @@
       "playlists": [
         {
           "id": 5,
+          "owner_id": -147845620,
           "title": "Рок",
           "icon_name": "ic_rock",
           "tag": "рок",
@@ -50,6 +55,7 @@
         },
         {
           "id": 6,
+          "owner_id": -147845620,
           "title": "Хип-хоп",
           "icon_name": "ic_hiphop",
           "tag": "хип-хоп",
