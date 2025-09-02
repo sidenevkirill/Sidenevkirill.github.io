@@ -5,19 +5,27 @@
       "playlists": [
         {
           "id": 1,
-          "owner_id": -147845620,
-          "title": "Топ хиты",
+          "owner_id": -2000415972,
+          "title": "Топ хиты 2024",
           "icon_name": "ic_popular",
           "tag": "хиты",
-          "description": "Самые популярные треки"
+          "description": "Самые популярные треки этого года"
         },
         {
           "id": 2,
-          "owner_id": -147845620,
-          "title": "Новинки",
+          "owner_id": -2000415972,
+          "title": "Вирусные треки",
+          "icon_name": "ic_viral",
+          "tag": "вирусное",
+          "description": "Треки, которые все слушают"
+        },
+        {
+          "id": 3,
+          "owner_id": -2000415972,
+          "title": "Новинки музыки",
           "icon_name": "ic_new",
-          "tag": "новое",
-          "description": "Свежие релизы"
+          "tag": "новинки",
+          "description": "Свежие музыкальные релизы"
         }
       ]
     },
@@ -25,20 +33,44 @@
       "name": "По настроению",
       "playlists": [
         {
-          "id": 3,
-          "owner_id": -147845620,
+          "id": 4,
+          "owner_id": -2000415972,
           "title": "Для тренировки",
           "icon_name": "ic_workout",
           "tag": "спорт",
-          "description": "Энергичная музыка"
+          "description": "Энергичная музыка для занятий"
         },
         {
-          "id": 4,
-          "owner_id": -147845620,
-          "title": "Для релакса",
+          "id": 5,
+          "owner_id": -2000415972,
+          "title": "Для релаксации",
           "icon_name": "ic_relax",
           "tag": "расслабление",
-          "description": "Спокойные мелодии"
+          "description": "Спокойные мелодии для отдыха"
+        },
+        {
+          "id": 6,
+          "owner_id": -2000415972,
+          "title": "Для учебы",
+          "icon_name": "ic_study",
+          "tag": "учеба",
+          "description": "Музыка для концентрации"
+        },
+        {
+          "id": 7,
+          "owner_id": -2000415972,
+          "title": "Для вечеринки",
+          "icon_name": "ic_party",
+          "tag": "вечеринка",
+          "description": "Танцевальные треки"
+        },
+        {
+          "id": 8,
+          "owner_id": -2000415972,
+          "title": "Для дороги",
+          "icon_name": "ic_road",
+          "tag": "путешествие",
+          "description": "Музыка в путь"
         }
       ]
     },
@@ -46,20 +78,275 @@
       "name": "Жанры",
       "playlists": [
         {
-          "id": 5,
-          "owner_id": -147845620,
-          "title": "Рок",
-          "icon_name": "ic_rock",
-          "tag": "рок",
-          "description": "Лучшие рок-композиции"
+          "id": 9,
+          "owner_id": -2000415972,
+          "title": "Поп-музыка",
+          "icon_name": "ic_pop",
+          "tag": "поп",
+          "description": "Лучшие поп-композиции"
         },
         {
-          "id": 6,
-          "owner_id": -147845620,
-          "title": "Хип-хоп",
+          "id": 10,
+          "owner_id": -2000415972,
+          "title": "Рок коллекция",
+          "icon_name": "ic_rock",
+          "tag": "рок",
+          "description": "Классика и современный рок"
+        },
+        {
+          "id": 11,
+          "owner_id": -2000415972,
+          "title": "Хип-хоп биты",
           "icon_name": "ic_hiphop",
           "tag": "хип-хоп",
-          "description": "Биты и рифмы"
+          "description": "Свежие хип-хоп треки"
+        },
+        {
+          "id": 12,
+          "owner_id": -2000415972,
+          "title": "Электронная музыка",
+          "icon_name": "ic_electro",
+          "tag": "электроника",
+          "description": "EDM и электронные биты"
+        },
+        {
+          "id": 13,
+          "owner_id": -2000415972,
+          "title": "R&B и Соул",
+          "icon_name": "ic_rnb",
+          "tag": "r&b",
+          "description": "Ритм-энд-блюз и соул"
+        },
+        {
+          "id": 14,
+          "owner_id": -2000415972,
+          "title": "Джаз и Блюз",
+          "icon_name": "ic_jazz",
+          "tag": "джаз",
+          "description": "Классический джаз и блюз"
+        },
+        {
+          "id": 15,
+          "owner_id": -2000415972,
+          "title": "Классическая музыка",
+          "icon_name": "ic_classical",
+          "tag": "классика",
+          "description": "Вечная классика"
+        },
+        {
+          "id": 16,
+          "owner_id": -2000415972,
+          "title": "Метал",
+          "icon_name": "ic_metal",
+          "tag": "метал",
+          "description": "Тяжелый метал и рок"
+        },
+        {
+          "id": 17,
+          "owner_id": -2000415972,
+          "title": "Инди музыка",
+          "icon_name": "ic_indie",
+          "tag": "инди",
+          "description": "Независимая музыка"
+        },
+        {
+          "id": 18,
+          "owner_id": -2000415972,
+          "title": "Регги и Дэнсхолл",
+          "icon_name": "ic_reggae",
+          "tag": "регги",
+          "description": "Карибские ритмы"
+        },
+        {
+          "id": 19,
+          "owner_id": -2000415972,
+          "title": "Кантри",
+          "icon_name": "ic_country",
+          "tag": "кантри",
+          "description": "Кантри и фолк музыка"
+        },
+        {
+          "id": 20,
+          "owner_id": -2000415972,
+          "title": "Латино",
+          "icon_name": "ic_latino",
+          "tag": "латино",
+          "description": "Латиноамериканские ритмы"
+        }
+      ]
+    },
+    {
+      "name": "Тематические",
+      "playlists": [
+        {
+          "id": 21,
+          "owner_id": -2000415972,
+          "title": "Русские хиты",
+          "icon_name": "ic_russian",
+          "tag": "русское",
+          "description": "Лучшие русские треки"
+        },
+        {
+          "id": 22,
+          "owner_id": -2000415972,
+          "title": "Зарубежные хиты",
+          "icon_name": "ic_foreign",
+          "tag": "зарубежное",
+          "description": "Международные хиты"
+        },
+        {
+          "id": 23,
+          "owner_id": -2000415972,
+          "title": "90-е годы",
+          "icon_name": "ic_90s",
+          "tag": "ретро",
+          "description": "Ностальгия по 90-м"
+        },
+        {
+          "id": 24,
+          "owner_id": -2000415972,
+          "title": "2000-е годы",
+          "icon_name": "ic_2000s",
+          "tag": "ретро",
+          "description": "Музыка нулевых"
+        },
+        {
+          "id": 25,
+          "owner_id": -2000415972,
+          "title": "2010-е годы",
+          "icon_name": "ic_2010s",
+          "tag": "ретро",
+          "description": "Хиты 2010-х"
+        },
+        {
+          "id": 26,
+          "owner_id": -2000415972,
+          "title": "Саундтреки к фильмам",
+          "icon_name": "ic_soundtrack",
+          "tag": "саундтреки",
+          "description": "Музыка из кино"
+        },
+        {
+          "id": 27,
+          "owner_id": -2000415972,
+          "title": "Игровая музыка",
+          "icon_name": "ic_gaming",
+          "tag": "игры",
+          "description": "Саундтреки из видеоигр"
+        },
+        {
+          "id": 28,
+          "owner_id": -2000415972,
+          "title": "Аниме и К-поп",
+          "icon_name": "ic_anime",
+          "tag": "аниме",
+          "description": "Японская и корейская музыка"
+        },
+        {
+          "id": 29,
+          "owner_id": -2000415972,
+          "title": "Романтическая музыка",
+          "icon_name": "ic_romance",
+          "tag": "романтика",
+          "description": "Для влюбленных"
+        },
+        {
+          "id": 30,
+          "owner_id": -2000415972,
+          "title": "Мотивационная музыка",
+          "icon_name": "ic_motivation",
+          "tag": "мотивация",
+          "description": "Для вдохновения"
+        }
+      ]
+    },
+    {
+      "name": "Сезонные",
+      "playlists": [
+        {
+          "id": 31,
+          "owner_id": -2000415972,
+          "title": "Летние хиты",
+          "icon_name": "ic_summer",
+          "tag": "лето",
+          "description": "Летнее настроение"
+        },
+        {
+          "id": 32,
+          "owner_id": -2000415972,
+          "title": "Зимние треки",
+          "icon_name": "ic_winter",
+          "tag": "зима",
+          "description": "Зимняя атмосфера"
+        },
+        {
+          "id": 33,
+          "owner_id": -2000415972,
+          "title": "Осенняя меланхолия",
+          "icon_name": "ic_autumn",
+          "tag": "осень",
+          "description": "Осеннее настроение"
+        },
+        {
+          "id": 34,
+          "owner_id": -2000415972,
+          "title": "Весеннее пробуждение",
+          "icon_name": "ic_spring",
+          "tag": "весна",
+          "description": "Весенние мотивы"
+        },
+        {
+          "id": 35,
+          "owner_id": -2000415972,
+          "title": "Новогодние песни",
+          "icon_name": "ic_christmas",
+          "tag": "праздник",
+          "description": "Праздничная атмосфера"
+        }
+      ]
+    },
+    {
+      "name": "Особые",
+      "playlists": [
+        {
+          "id": 36,
+          "owner_id": -2000415972,
+          "title": "Топ ВКонтакте",
+          "icon_name": "ic_vk",
+          "tag": "вк",
+          "description": "Лучшее из ВК"
+        },
+        {
+          "id": 37,
+          "owner_id": -2000415972,
+          "title": "Открытия недели",
+          "icon_name": "ic_discovery",
+          "tag": "открытия",
+          "description": "Новые открытия"
+        },
+        {
+          "id": 38,
+          "owner_id": -2000415972,
+          "title": "Премия VK Music",
+          "icon_name": "ic_award",
+          "tag": "премия",
+          "description": "Лауреаты премии"
+        },
+        {
+          "id": 39,
+          "owner_id": -2000415972,
+          "title": "Артисты ВКонтакте",
+          "icon_name": "ic_artist",
+          "tag": "артисты",
+          "description": "Лучшие исполнители"
+        },
+        {
+          "id": 40,
+          "owner_id": -2000415972,
+          "title": "Подкасты и аудиокниги",
+          "icon_name": "ic_podcast",
+          "tag": "подкасты",
+          "description": "Аудиоконтент"
         }
       ]
     }
