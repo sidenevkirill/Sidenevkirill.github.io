@@ -1,0 +1,57 @@
+{
+  "sticker_packs": [
+    {
+      "id": 1,
+      "title": "Базовые эмодзи",
+      "price": 0,
+      "preview_url": "https://sun96-2.userapi.com/PfyhoAURkS9IIRGeenFo-UALOBwCrXh5CSWHvQ/cs9oRAlIyJQ.png",
+      "icon_url": "https://via.placeholder.com/64x64/4CAF50/FFFFFF?text=😊",
+      "purchased": true,
+      "stickers": [
+        {
+          "id": 1,
+          "name": "Улыбка",
+          "image_url": "https://via.placeholder.com/128/4CAF50/FFFFFF?text=😊",
+          "width": 128,
+          "height": 128,
+          "images": [
+            {
+              "url": "https://via.placeholder.com/128/4CAF50/FFFFFF?text=😊",
+              "width": 128,
+              "height": 128
+            },
+            {
+              "url": "https://via.placeholder.com/256/4CAF50/FFFFFF?text=😊",
+              "width": 256,
+              "height": 256
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Смех",
+          "image_url": "https://via.placeholder.com/128/2196F3/FFFFFF?text=😂",
+          "width": 128,
+          "height": 128
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Популярные мемы",
+      "price": 49,
+      "preview_url": "https://via.placeholder.com/200x200/2196F3/FFFFFF?text=Memes",
+      "icon_url": "https://via.placeholder.com/64x64/2196F3/FFFFFF?text=😂",
+      "purchased": false,
+      "stickers": [
+        {
+          "id": 101,
+          "name": "Facepalm",
+          "image_url": "https://example.com/stickers/meme1.png",
+          "width": 256,
+          "height": 256
+        }
+      ]
+    }
+  ]
+}
