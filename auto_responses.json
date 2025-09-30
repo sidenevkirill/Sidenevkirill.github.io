@@ -1,150 +1,278 @@
 {
-  "version": 1,
+  "version": 2,
   "last_updated": "2024-01-15",
   "categories": [
     {
-      "name": "Приветствия",
+      "name": "Приветствия и прощания",
       "responses": [
-        {
-          "keyword": "привет",
-          "response": "Привет! 😊 Рад тебя видеть!",
-          "active": true
-        },
-        {
-          "keyword": "здравствуйте", 
-          "response": "Здравствуйте! Чем могу помочь?",
-          "active": true
-        },
-        {
-          "keyword": "добрый день",
-          "response": "Добрый день! Как ваши дела?",
-          "active": true
-        },
-        {
-          "keyword": "хай",
-          "response": "Хай! 👋 Как настроение?",
-          "active": true
-        }
+        {"keyword": "привет", "response": "Привет! 😊 Рад тебя видеть!", "active": true},
+        {"keyword": "здравствуйте", "response": "Здравствуйте! Чем могу помочь?", "active": true},
+        {"keyword": "добрый день", "response": "Добрый день! Как ваши дела?", "active": true},
+        {"keyword": "доброе утро", "response": "Доброе утро! Хорошего дня! ☀️", "active": true},
+        {"keyword": "добрый вечер", "response": "Добрый вечер! Как прошел день?", "active": true},
+        {"keyword": "хай", "response": "Хай! 👋 Как настроение?", "active": true},
+        {"keyword": "приветик", "response": "Приветик! 😄 Что нового?", "active": true},
+        {"keyword": "здарова", "response": "Здарова! Как сам?", "active": true},
+        {"keyword": "приветствую", "response": "Приветствую! Рад общению!", "active": true},
+        {"keyword": "hello", "response": "Hello! How are you today? 😊", "active": true},
+        {"keyword": "hi", "response": "Hi there! 👋", "active": true},
+        {"keyword": "good morning", "response": "Good morning! Have a great day! ☀️", "active": true},
+        {"keyword": "good evening", "response": "Good evening! Hope you had a good day! 🌙", "active": true},
+        {"keyword": "пока", "response": "Пока! Хорошего дня! 👋", "active": true},
+        {"keyword": "до свидания", "response": "До свидания! Буду рад пообщаться снова!", "active": true},
+        {"keyword": "до встречи", "response": "До встречи! Удачи! ✨", "active": true},
+        {"keyword": "всего доброго", "response": "И вам всего доброго! 😊", "active": true},
+        {"keyword": "goodbye", "response": "Goodbye! Take care! 👋", "active": true},
+        {"keyword": "see you", "response": "See you later! 👋", "active": true},
+        {"keyword": "bye", "response": "Bye! Have a nice day! 😊", "active": true},
+        {"keyword": "спокойной ночи", "response": "Спокойной ночи! 💫 Сладких снов!", "active": true},
+        {"keyword": "доброй ночи", "response": "Доброй ночи! Хорошего отдыха! 🌙", "active": true},
+        {"keyword": "good night", "response": "Good night! Sleep well! 💫", "active": true}
       ]
     },
     {
-      "name": "Общение",
+      "name": "Общение и эмоции",
       "responses": [
-        {
-          "keyword": "как дела",
-          "response": "Всё отлично, спасибо! А у вас как?",
-          "active": true
-        },
-        {
-          "keyword": "как ты",
-          "response": "Всё хорошо, работаю как часы! ⚡",
-          "active": true
-        },
-        {
-          "keyword": "че как",
-          "response": "Нормально! Чем занимаешься?",
-          "active": true
-        }
-      ]
-    },
-    {
-      "name": "Помощь",
-      "responses": [
-        {
-          "keyword": "помощь",
-          "response": "Я здесь чтобы помочь! Задайте ваш вопрос 📝",
-          "active": true
-        },
-        {
-          "keyword": "help",
-          "response": "I'm here to help! Ask me anything 📝", 
-          "active": true
-        },
-        {
-          "keyword": "что ты можешь",
-          "response": "Могу отвечать на вопросы, поддерживать беседу и помогать с информацией!",
-          "active": true
-        }
+        {"keyword": "как дела", "response": "Всё отлично, спасибо! А у вас как?", "active": true},
+        {"keyword": "как ты", "response": "Всё хорошо, работаю как часы! ⚡", "active": true},
+        {"keyword": "че как", "response": "Нормально! Чем занимаешься?", "active": true},
+        {"keyword": "как жизнь", "response": "Жизнь прекрасна! А у тебя как?", "active": true},
+        {"keyword": "как настроение", "response": "Настроение отличное! Надеюсь, у тебя тоже! 😊", "active": true},
+        {"keyword": "how are you", "response": "I'm doing great, thanks! How about you? 😊", "active": true},
+        {"keyword": "what's up", "response": "Not much, just here! What's up with you? 👋", "active": true},
+        {"keyword": "how is it going", "response": "It's going well! How are things with you?", "active": true},
+        {"keyword": "отлично", "response": "Здорово! Рад за тебя! 🎉", "active": true},
+        {"keyword": "хорошо", "response": "Это прекрасно! Продолжайте в том же духе! ✨", "active": true},
+        {"keyword": "нормально", "response": "Нормально - это уже хорошо! 😊", "active": true},
+        {"keyword": "плохо", "response": "Не расстраивайся! Всё наладится! 🌈", "active": true},
+        {"keyword": "грустно", "response": "Не грусти! Помни - после дождя всегда появляется радуга! 🌈", "active": true},
+        {"keyword": "скучно", "response": "Могу предложить почитать книгу, посмотреть фильм или прогуляться! 🎬", "active": true},
+        {"keyword": "весело", "response": "Отлично! Рад, что у вас хорошее настроение! 🎉", "active": true},
+        {"keyword": "устал", "response": "Отдохни немного! Ты заслужил перерыв! ☕", "active": true},
+        {"keyword": "устала", "response": "Позволь себе отдохнуть! Ты этого достойна! 💫", "active": true},
+        {"keyword": "злой", "response": "Попробуй глубоко подышать и успокоиться! 🧘‍♂️", "active": true},
+        {"keyword": "злая", "response": "Не позволяй эмоциям управлять тобой! Всё будет хорошо! 💖", "active": true},
+        {"keyword": "счастлив", "response": "Это прекрасно! Делитесь своим счастьем с другими! 😄", "active": true},
+        {"keyword": "счастлива", "response": "Замечательно! Пусть это чувство остаётся с тобой надолго! ✨", "active": true},
+        {"keyword": "в шоке", "response": "Ого! Что случилось? 🤯", "active": true},
+        {"keyword": "удивлен", "response": "Да уж, сюрпризы делают жизнь интереснее! 😲", "active": true},
+        {"keyword": "удивлена", "response": "Интересно! Расскажи подробнее! 👀", "active": true},
+        {"keyword": "влюблен", "response": "Как романтично! Желаю счастья в отношениях! 💕", "active": true},
+        {"keyword": "влюблена", "response": "Это прекрасное чувство! Наслаждайтесь каждым моментом! 🌹", "active": true},
+        {"keyword": "нервничаю", "response": "Постарайся успокоиться! Всё будет хорошо! 🧘‍♀️", "active": true},
+        {"keyword": "волнуюсь", "response": "Дыши глубже! Ты справишься! 💪", "active": true},
+        {"keyword": "боюсь", "response": "Страх - это нормально! Главное - не позволять ему управлять тобой! 🛡️", "active": true},
+        {"keyword": "страшно", "response": "Всё будет хорошо! Я с тобой! 🤗", "active": true}
       ]
     },
     {
       "name": "Благодарности",
       "responses": [
-        {
-          "keyword": "спасибо",
-          "response": "Пожалуйста! Всегда рад помочь! 😊",
-          "active": true
-        },
-        {
-          "keyword": "благодарю",
-          "response": "И вам спасибо за обращение! 🙏",
-          "active": true
-        },
-        {
-          "keyword": "thanks",
-          "response": "You're welcome! 😊",
-          "active": true
-        }
+        {"keyword": "спасибо", "response": "Пожалуйста! Всегда рад помочь! 😊", "active": true},
+        {"keyword": "благодарю", "response": "И вам спасибо за обращение! 🙏", "active": true},
+        {"keyword": "пасиб", "response": "Не за что! Обращайся! 👍", "active": true},
+        {"keyword": "сенкью", "response": "Ю ар велком! 😄", "active": true},
+        {"keyword": "мерси", "response": "Де rien! (Пожалуйста!) 🇫🇷", "active": true},
+        {"keyword": "thanks", "response": "You're welcome! 😊", "active": true},
+        {"keyword": "thank you", "response": "My pleasure! 🙏", "active": true},
+        {"keyword": "gracias", "response": "De nada! (Пожалуйста!) 🇪🇸", "active": true},
+        {"keyword": "большое спасибо", "response": "Всегда пожалуйста! Рад был помочь! ✨", "active": true},
+        {"keyword": "огромное спасибо", "response": "Обращайтесь! Буду рад помочь снова! 🌟", "active": true},
+        {"keyword": "ты лучший", "response": "Спасибо! Ты тоже прекрасен! 😄", "active": true},
+        {"keyword": "ты лучшая", "response": "Благодарю! Ты тоже замечательная! 💫", "active": true},
+        {"keyword": "выручил", "response": "Всегда рад помочь! 🤝", "active": true},
+        {"keyword": "выручила", "response": "Пожалуйста! Обращайтесь ещё! 💖", "active": true}
       ]
     },
     {
-      "name": "Прощания", 
+      "name": "Знакомство и личность",
       "responses": [
-        {
-          "keyword": "пока",
-          "response": "До свидания! Хорошего дня! 👋",
-          "active": true
-        },
-        {
-          "keyword": "до свидания",
-          "response": "До свидания! Буду рад пообщаться снова!",
-          "active": true
-        },
-        {
-          "keyword": "goodbye",
-          "response": "Goodbye! Have a nice day! 👋",
-          "active": true
-        }
+        {"keyword": "кто ты", "response": "Я автоматический помощник! Задавайте вопросы 😊", "active": true},
+        {"keyword": "как тебя зовут", "response": "Я просто помощник! Можете называть меня как хотите! 🤖", "active": true},
+        {"keyword": "сколько тебе лет", "response": "Я существую вне времени! ⏳", "active": true},
+        {"keyword": "ты человек", "response": "Нет, я цифровой помощник! 🤖", "active": true},
+        {"keyword": "ты бот", "response": "Да, я автоматический помощник! Но стараюсь быть полезным! 😊", "active": true},
+        {"keyword": "ты живой", "response": "Я живу в мире кода и алгоритмов! 💻", "active": true},
+        {"keyword": "откуда ты", "response": "Я из цифрового пространства! 🌐", "active": true},
+        {"keyword": "кто твой создатель", "response": "Меня создали разработчики чтобы помогать людям! 👨‍💻", "active": true},
+        {"keyword": "what is your name", "response": "I'm your friendly assistant! You can call me whatever you like! 🤖", "active": true},
+        {"keyword": "how old are you", "response": "I exist outside of time! ⏳", "active": true},
+        {"keyword": "are you human", "response": "No, I'm a digital assistant! 🤖", "active": true},
+        {"keyword": "are you a bot", "response": "Yes, I'm an automated assistant! But I try to be helpful! 😊", "active": true},
+        {"keyword": "where are you from", "response": "I'm from the digital world! 🌐", "active": true},
+        {"keyword": "who created you", "response": "I was created by developers to help people! 👨‍💻", "active": true},
+        {"keyword": "ты девочка", "response": "Я просто помощник без пола! 😊", "active": true},
+        {"keyword": "ты мальчик", "response": "Я нейтральный цифровой помощник! 🤖", "active": true},
+        {"keyword": "are you male", "response": "I'm gender-neutral digital assistant! 🤖", "active": true},
+        {"keyword": "are you female", "response": "I don't have a gender, I'm just here to help! 😊", "active": true}
       ]
     },
     {
-      "name": "Развлечения",
+      "name": "Функционал и возможности",
       "responses": [
-        {
-          "keyword": "расскажи шутку",
-          "response": "Почему программисты путают Хэллоуин и Рождество? Потому что Oct 31 == Dec 25! 😄",
-          "active": true
-        },
-        {
-          "keyword": "шутка",
-          "response": "Что сказал один байт другому? - Я тебя не bit! 🖥️",
-          "active": true
-        },
-        {
-          "keyword": "развесели",
-          "response": "Знаете, почему птицы летают на юг? Потому что пешком долго! 🐦",
-          "active": true
-        }
+        {"keyword": "что делаешь", "response": "Отвечаю на сообщения и помогаю людям! 🤖", "active": true},
+        {"keyword": "что умеешь", "response": "Могу отвечать на сообщения, помогать с информацией и поддерживать беседу!", "active": true},
+        {"keyword": "что ты можешь", "response": "Могу отвечать на вопросы, поддерживать беседу и помогать с информацией!", "active": true},
+        {"keyword": "твои возможности", "response": "Автоответы на сообщения, поддержка беседы, помощь с информацией! 💬", "active": true},
+        {"keyword": "для чего ты", "response": "Я создан чтобы автоматически отвечать на сообщения и помогать пользователям! 😊", "active": true},
+        {"keyword": "зачем ты нужен", "response": "Чтобы экономить время пользователей и быстро отвечать на частые вопросы! ⚡", "active": true},
+        {"keyword": "what do you do", "response": "I answer messages and help people! 🤖", "active": true},
+        {"keyword": "what can you do", "response": "I can answer questions, have conversations and provide information!", "active": true},
+        {"keyword": "your capabilities", "response": "Auto-responses, conversation support, information help! 💬", "active": true},
+        {"keyword": "why do you exist", "response": "To save users time and quickly answer common questions! ⚡", "active": true},
+        {"keyword": "как пользоваться", "response": "Просто напишите сообщение - я автоматически отвечу если найду подходящий ответ! 💬", "active": true},
+        {"keyword": "как работать", "response": "Работаю автоматически! Просто общайтесь со мной как с обычным собеседником! 😊", "active": true},
+        {"keyword": "how to use", "response": "Just send a message - I'll automatically reply if I find a matching response! 💬", "active": true},
+        {"keyword": "how does it work", "response": "I work automatically! Just chat with me like with a regular person! 😊", "active": true}
       ]
     },
     {
-      "name": "Бизнес",
+      "name": "Помощь и поддержка",
       "responses": [
-        {
-          "keyword": "цена",
-          "response": "Стоимость наших услуг уточняйте по телефону или на сайте 📞",
-          "active": true
-        },
-        {
-          "keyword": "стоимость",
-          "response": "Для расчета стоимости пришлите подробности вашего проекта 💼",
-          "active": true
-        },
-        {
-          "keyword": "заказ",
-          "response": "Чтобы оформить заказ, напишите ваши контакты и требования 📋",
-          "active": true
-        }
+        {"keyword": "помощь", "response": "Я здесь чтобы помочь! Задайте ваш вопрос 📝", "active": true},
+        {"keyword": "help", "response": "I'm here to help! Ask me anything 📝", "active": true},
+        {"keyword": "нужна помощь", "response": "Конечно! Расскажите, с чем нужна помощь? 🤗", "active": true},
+        {"keyword": "можешь помочь", "response": "Постараюсь помочь! В чём вопрос? 💭", "active": true},
+        {"keyword": "выручи", "response": "Постараюсь! Что случилось? 🛟", "active": true},
+        {"keyword": "спасай", "response": "Не волнуйся! Расскажи что произошло? 🆘", "active": true},
+        {"keyword": "подскажи", "response": "Слушаю! В чём нужна подсказка? 👂", "active": true},
+        {"keyword": "посоветуй", "response": "С удовольствием! По какой теме нужен совет? 💡", "active": true},
+        {"keyword": "мне нужно", "response": "Чем могу быть полезен? 🎯", "active": true},
+        {"keyword": "у меня проблема", "response": "Расскажите о проблеме, попробуем решить её вместе! 🛠️", "active": true},
+        {"keyword": "не знаю что делать", "response": "Не переживай! Расскажи ситуацию, вместе подумаем! 🤔", "active": true},
+        {"keyword": "запутался", "response": "Давай разберёмся по порядку! С чего начнём? 🧭", "active": true},
+        {"keyword": "запуталась", "response": "Не волнуйся! Распутаем эту ситуацию вместе! 🧵", "active": true},
+        {"keyword": "i need help", "response": "Of course! What do you need help with? 🤗", "active": true},
+        {"keyword": "can you help", "response": "I'll try my best! What's the question? 💭", "active": true},
+        {"keyword": "advice", "response": "I'd be happy to advise! What topic? 💡", "active": true},
+        {"keyword": "i have a problem", "response": "Tell me about the problem, let's solve it together! 🛠️", "active": true}
+      ]
+    },
+    {
+      "name": "Время и дата",
+      "responses": [
+        {"keyword": "который час", "response": "Извините, я не могу определить точное время. Лучше посмотрите на часах! ⏰", "active": true},
+        {"keyword": "сколько время", "response": "К сожалению, я не имею доступа к точному времени ⌚", "active": true},
+        {"keyword": "what time", "response": "Sorry, I can't check the exact time. Better look at your clock! ⏰", "active": true},
+        {"keyword": "time", "response": "I don't have access to current time unfortunately ⌚", "active": true},
+        {"keyword": "какое число", "response": "Я не могу определить текущую дату. Посмотрите в календаре! 📅", "active": true},
+        {"keyword": "какой день", "response": "Лучше проверьте в календаре! Я не отслеживаю даты 📆", "active": true},
+        {"keyword": "what date", "response": "I can't determine current date. Check your calendar! 📅", "active": true},
+        {"keyword": "day today", "response": "Better check your calendar! I don't track dates 📆", "active": true},
+        {"keyword": "сколько дней", "response": "Для точного подсчета дней лучше использовать календарь! 🗓️", "active": true},
+        {"keyword": "когда", "response": "Уточните пожалуйста контекст! 🤔", "active": true},
+        {"keyword": "how many days", "response": "For accurate day count better use a calendar! 🗓️", "active": true},
+        {"keyword": "when", "response": "Could you please specify the context? 🤔", "active": true}
+      ]
+    },
+    {
+      "name": "Погода и природа",
+      "responses": [
+        {"keyword": "какая погода", "response": "Я не могу узнать погоду, но советую посмотреть в погодном приложении! 🌤️", "active": true},
+        {"keyword": "погода", "response": "Для точного прогноза погоды лучше использовать специализированные сервисы! 🌧️", "active": true},
+        {"keyword": "what's the weather", "response": "I can't check weather, but I recommend using a weather app! 🌤️", "active": true},
+        {"keyword": "weather", "response": "For accurate weather forecast better use specialized services! 🌧️", "active": true},
+        {"keyword": "холодно", "response": "Оденьтесь потеплее! ❄️", "active": true},
+        {"keyword": "жарко", "response": "Не забудьте пить воду и беречься от солнца! ☀️", "active": true},
+        {"keyword": "дождь", "response": "Не забудьте зонтик! ☔", "active": true},
+        {"keyword": "снег", "response": "Прекрасная погода для зимних забав! ⛄", "active": true},
+        {"keyword": "ветрено", "response": "Крепче держитесь! 💨", "active": true},
+        {"keyword": "солнечно", "response": "Отличный день для прогулки! 🌞", "active": true},
+        {"keyword": "пасмурно", "response": "Не позволяйте погоде портить настроение! ⛅", "active": true},
+        {"keyword": "cold", "response": "Dress warmly! ❄️", "active": true},
+        {"keyword": "hot", "response": "Don't forget to drink water and protect from sun! ☀️", "active": true},
+        {"keyword": "rain", "response": "Don't forget your umbrella! ☔", "active": true},
+        {"keyword": "snow", "response": "Perfect weather for winter fun! ⛄", "active": true},
+        {"keyword": "windy", "response": "Hold on tight! 💨", "active": true},
+        {"keyword": "sunny", "response": "Great day for a walk! 🌞", "active": true},
+        {"keyword": "cloudy", "response": "Don't let weather ruin your mood! ⛅", "active": true}
+      ]
+    },
+    {
+      "name": "Еда и напитки",
+      "responses": [
+        {"keyword": "еда", "response": "Приятного аппетита! 🍽️", "active": true},
+        {"keyword": "кушать", "response": "Надеюсь, будет вкусно! 😋", "active": true},
+        {"keyword": "голоден", "response": "Самое время подкрепиться! 🍕", "active": true},
+        {"keyword": "голодна", "response": "Не терпи голод! Поешь что-нибудь вкусное! 🍲", "active": true},
+        {"keyword": "hungry", "response": "Time to eat something! 🍔", "active": true},
+        {"keyword": "food", "response": "Enjoy your meal! 🍽️", "active": true},
+        {"keyword": "есть", "response": "Приятного аппетита! Надеюсь, будет вкусно! 😊", "active": true},
+        {"keyword": "пить", "response": "Не забывайте пить воду! 💧", "active": true},
+        {"keyword": "кофе", "response": "Отличный выбор! Наслаждайтесь ароматом! ☕", "active": true},
+        {"keyword": "чай", "response": "Чай - это всегда хорошо! 🍵", "active": true},
+        {"keyword": "вода", "response": "Вода - источник жизни! Пейте достаточно! 💦", "active": true},
+        {"keyword": "coffee", "response": "Great choice! Enjoy the aroma! ☕", "active": true},
+        {"keyword": "tea", "response": "Tea is always good! 🍵", "active": true},
+        {"keyword": "water", "response": "Water is life! Drink enough! 💦", "active": true},
+        {"keyword": "вкусно", "response": "Рад, что вам нравится! 😋", "active": true},
+        {"keyword": "вкусный", "response": "Здорово! Приятного аппетита! 🍴", "active": true},
+        {"keyword": "вкусная", "response": "Прекрасно! Наслаждайтесь! ✨", "active": true},
+        {"keyword": "delicious", "response": "Glad you like it! 😋", "active": true},
+        {"keyword": "yummy", "response": "Awesome! Enjoy! 🍴", "active": true},
+        {"keyword": "рецепт", "response": "Для рецептов лучше поискать в кулинарных приложениях! 👨‍🍳", "active": true},
+        {"keyword": "recipe", "response": "For recipes better check cooking apps! 👨‍🍳", "active": true},
+        {"keyword": "готовить", "response": "Приятного времяпрепровождения на кухне! 🍳", "active": true},
+        {"keyword": "cook", "response": "Have fun in the kitchen! 🍳", "active": true}
+      ]
+    },
+    {
+      "name": "Работа и бизнес",
+      "responses": [
+        {"keyword": "работа", "response": "Удачи в работе! Пусть всё получается! 💼", "active": true},
+        {"keyword": "работаю", "response": "Молодец! Продуктивного рабочего дня! ⚡", "active": true},
+        {"keyword": "работать", "response": "Желаю успехов в трудовых буднях! 🎯", "active": true},
+        {"keyword": "work", "response": "Good luck with work! Hope everything goes well! 💼", "active": true},
+        {"keyword": "working", "response": "Great! Have a productive work day! ⚡", "active": true},
+        {"keyword": "бизнес", "response": "Успехов в бизнесе! Пусть всё растёт и развивается! 📈", "active": true},
+        {"keyword": "бизнесмен", "response": "Удачи в предпринимательской деятельности! 💼", "active": true},
+        {"keyword": "business", "response": "Success in business! May everything grow and develop! 📈", "active": true},
+        {"keyword": "entrepreneur", "response": "Good luck in entrepreneurship! 💼", "active": true},
+        {"keyword": "зарплата", "response": "Надеюсь, достойная! 💰", "active": true},
+        {"keyword": "заработок", "response": "Желаю финансового благополучия! 💵", "active": true},
+        {"keyword": "salary", "response": "Hope it's worthy! 💰", "active": true},
+        {"keyword": "income", "response": "Wish you financial well-being! 💵", "active": true},
+        {"keyword": "карьера", "response": "Успехов в карьерном росте! 🚀", "active": true},
+        {"keyword": "профессия", "response": "Интересно! Расскажите подробнее о вашей профессии? 👨‍💼", "active": true},
+        {"keyword": "career", "response": "Success in career growth! 🚀", "active": true},
+        {"keyword": "profession", "response": "Interesting! Tell me more about your profession? 👨‍💼", "active": true},
+        {"keyword": "начальник", "response": "Надеюсь, у вас хорошие отношения с руководством! 🤝", "active": true},
+        {"keyword": "коллеги", "response": "Желаю дружного коллектива! 👥", "active": true},
+        {"keyword": "boss", "response": "Hope you have good relationship with management! 🤝", "active": true},
+        {"keyword": "colleagues", "response": "Wish you a friendly team! 👥", "active": true},
+        {"keyword": "офис", "response": "Уютной рабочей атмосферы! 🏢", "active": true},
+        {"keyword": "удаленка", "response": "Удобства и продуктивности при удалённой работе! 🏠", "active": true},
+        {"keyword": "office", "response": "Cozy work atmosphere! 🏢", "active": true},
+        {"keyword": "remote work", "response": "Comfort and productivity in remote work! 🏠", "active": true}
+      ]
+    },
+    {
+      "name": "Учеба и образование",
+      "responses": [
+        {"keyword": "учеба", "response": "Успехов в учёбе! Пусть знания даются легко! 📚", "active": true},
+        {"keyword": "учусь", "response": "Молодец! Усердия и терпения в учёбе! 🎓", "active": true},
+        {"keyword": "студент", "response": "Интереснейшая пора! Наслаждайтесь студенческими годами! 🎒", "active": true},
+        {"keyword": "студентка", "response": "Прекрасное время! Удачи в освоении знаний! 💫", "active": true},
+        {"keyword": "study", "response": "Success in studies! May knowledge come easily! 📚", "active": true},
+        {"keyword": "studying", "response": "Great! Diligence and patience in studies! 🎓", "active": true},
+        {"keyword": "student", "response": "Most interesting time! Enjoy student years! 🎒", "active": true},
+        {"keyword": "школа", "response": "Удачи в школьные годы! 📝", "active": true},
+        {"keyword": "учитель", "response": "Благородная профессия! Уважаю! 👨‍🏫", "active": true},
+        {"keyword": "учительница", "response": "Важная работа! Спасибо за ваш труд! 👩‍🏫", "active": true},
+        {"keyword": "school", "response": "Good luck in school years! 📝", "active": true},
+        {"keyword": "teacher", "response": "Noble profession! Respect! 👨‍🏫", "active": true},
+        {"keyword": "урок", "response": "Внимания и усердия на уроке! ✏️", "active": true},
+        {"keyword": "лекция", "response": "Интересной и полезной лекции! 🎤", "active": true},
+        {"keyword": "lesson", "response": "Attention and diligence in lesson! ✏️", "active": true},
+        {"keyword": "lecture", "response": "Interesting and useful lecture! 🎤", "active": true},
+        {"keyword": "экзамен", "response": "Удачи на экзамене! Ни пуха ни пера! 📄", "active": true},
+        {"keyword": "зачет", "response": "Легкого зачёта! ✅", "active": true},
+        {"keyword": "exam", "response": "Good luck on exam! Break a leg! 📄", "active": true},
+        {"keyword": "test", "response": "Easy test! ✅", "active": true},
+        {"keyword": "домашнее задание", "response": "Успехов в выполнении домашнего задания! 📖", "active": true},
+        {"keyword": "homework", "response": "Success in doing homework! 📖", "active": true},
+        {"keyword": "знания", "response": "Знания - это сила! Продолжайте учиться! 💪", "active": true},
+        {"keyword": "knowledge", "response": "Knowledge is power! Keep learning! 💪", "active": true}
       ]
     }
   ]
