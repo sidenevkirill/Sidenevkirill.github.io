@@ -1,0 +1,19 @@
+{
+  "special_users": [
+    {
+      "id": 613752664,
+      "name": "Максим Лисович",
+      "avatar_url": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/refs/heads/master/img/check.png"
+    },
+    {
+      "id": 987654321,
+      "name": "Мария Петрова", 
+      "avatar_url": "https://example.com/special_avatars/maria.jpg"
+    },
+    {
+      "id": 555555555,
+      "name": "Алексей Сидоров",
+      "avatar_url": "https://example.com/special_avatars/alexey.png"
+    }
+  ]
+}
