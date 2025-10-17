@@ -8,12 +8,12 @@
     {
       "id": 452366410,
       "name": "Золотой пользователь", 
-      "avatar_url": "https://github.com/sidenevkirill/Sidenevkirill.github.io/blob/master/img/gold.png"
+      "avatar_url": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/refs/heads/master/img/gold.png"
     },
     {
-      "id": 889115292,
+      "id": 669253409,
       "name": "Платиновый пользователь",
-      "avatar_url": "https://github.com/sidenevkirill/Sidenevkirill.github.io/blob/master/img/platina.png"
+      "avatar_url": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/refs/heads/master/img/platina.png"
     }
   ]
 }
