@@ -1,215 +1,351 @@
-/* Базовые стили для мобильной адаптации */
-* {
-  box-sizing: border-box;
-}
-
-body {
-  background: #000;
-  color: #fc0;
-  margin: 0;
-  padding: 0;
-  overflow-x: hidden;
-}
-
-/* Ripple эффект */
-.ripple-background {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
-  cursor: pointer;
-}
-
-/* Video background - обновленный для мобильных */
+/* video background */
 .bg-video {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
 
-/* Кнопка VK - адаптивная */
 .btn-vk {
-  position: absolute;
-  width: 80px;
-  height: 80px;
-  background: url(https://Sidenevkirill.github.io/img/17927780.jpg) no-repeat center center;
-  background-size: cover;
-  top: 20px;
-  right: 20px;
-  border: 0px solid #dedede;
-  border-radius: 4px;
-  transition: 0.3s all ease;
-  box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+    float: left;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    color: #f9f1e9;
+    text-align: center;
+    width: 12em;
+    height: 2em;
+    left: 50%;
+    top: 0;
+    font-size: 4.2em;
+    transform: translate3d(-50%, 0, 0);
+    width: 120px;
+    height: 120px;
+    background: url(https://Sidenevkirill.github.io/img/17927780.jpg) no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 120px;
+    bottom: 1px;
+    right: 15px;
+    border: 0px solid #dedede;
+    transition: 0.3s all ease;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+    -moz-box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+    box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
 }
 
-/* Футер - адаптивный */
 .footer {
   position: absolute;
-  bottom: 20px;
-  left: 0;
   right: 0;
+  bottom: 20;
   font-size: 17px;
   color: #fff;
+  left: 0;
   padding: 1rem;
   text-align: center;
-  z-index: 10;
 }
 
-/* Основной контейнер */
 .wrapper {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
-  height: 100vh;
+  width:100%;
+  height:100vh;
   overflow: hidden;
-  animation: fadeIn 5s cubic-bezier(0.42, 0, 0.58, 1) forwards;
+  -webkit-animation: fadeIn 5s cubic-bezier(0.42, 0, 0.58, 1) forwards;
+          animation: fadeIn 5s cubic-bezier(0.42, 0, 0.58, 1) forwards;
 }
 
-/* Текстовый блок - адаптивный */
+
+
 .text-wrapper {
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 0;
-  width: 100%;
-  transform: translateY(-50%);
+  width: 100vw;
+  height: auto;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center center;
   z-index: 1;
-  padding: 0 20px;
+  -webkit-transform: translate3d(0, -50%, 0);
+  transform: translate3d(0, -50%, 0);
 }
 
-/* Социальные иконки - адаптивные */
+.main-title {
+  position: relative;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #f9f1e9;
+  text-align: center;
+  margin-left: 50%;
+  font-size: 4.2em;
+  -webkit-transform: translate3d(-50%, 0, 0);
+  transform: translate3d(-50%, 0, 0);
+}
+
+.sub-title {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    color: #0088cc;
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: 100;
+    margin-left: 47.50%;
+    -webkit-transform: translate3d(-50%, 0, 0);
+    transform: translate3d(-50%, 0, 0);
+}
+
 .socials {
   position: relative;
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
+  color: #f9f1e9;
   text-align: center;
-  width: 100%;
-  max-width: 600px;
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 15px;
+  width: 12em;
+  height: 2em;
+  left: 50%;
+  top: 0;
+  font-size: 4.2em;
+  transform: translate3d(-50%, 0, 0);
 }
 
 .socials .icon {
   position: relative;
-  width: 60px;
-  height: 60px;
-  flex-shrink: 0;
+  float: left;
 }
 
 .socials .icon .circle {
   fill: none;
   stroke: #ffffff;
-  stroke-width: 3px;
+  stroke-width: 5px;
   stroke-dasharray: 40;
-  width: 100%;
-  height: 100%;
+  width: 2em;
+  height: 2em;
+  -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
-  animation: outWaveOut 1s cubic-bezier(0.42, 0, 0.58, 1) forwards;
+  -webkit-animation: outWaveOut 1s cubic-bezier(0.42, 0, 0.58, 1) forwards;
+          animation: outWaveOut 1s cubic-bezier(0.42, 0, 0.58, 1) forwards;
 }
 
 .socials .icon:hover {
   cursor: pointer;
 }
 
-.socials .icon img {
+.socials .icon img, .socials .icon object {
   position: absolute;
-  width: 30px;
-  height: 30px;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  width: 1em;
+  height: 0.5em;
+  top: 37%;
+  left: 25%;
 }
 
-/* Медиа-запросы для мобильных устройств */
-@media only screen and (max-width: 768px) {
-  .btn-vk {
-    width: 60px;
-    height: 60px;
-    top: 15px;
-    right: 15px;
-  }
-  
-  .socials {
-    gap: 10px;
-    max-width: 100%;
-  }
-  
-  .socials .icon {
-    width: 50px;
-    height: 50px;
-  }
-  
-  .socials .icon img {
-    width: 25px;
-    height: 25px;
-  }
-  
-  .footer {
-    font-size: 14px;
-    padding: 0.5rem;
-    bottom: 10px;
-  }
-}
-
-@media only screen and (max-width: 480px) {
-  .socials {
-    gap: 8px;
-  }
-  
-  .socials .icon {
-    width: 45px;
-    height: 45px;
-  }
-  
-  .socials .icon img {
-    width: 20px;
-    height: 20px;
-  }
-  
-  .btn-vk {
-    width: 50px;
-    height: 50px;
-    top: 10px;
-    right: 10px;
-  }
-}
-
-/* Анимации (остаются без изменений) */
 .vk:hover .circle {
-  animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorVK 1s linear forwards;
+  /*fill: #ffffff;*/
+  /*fill-opacity: 1;*/
+  -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorVK 1s linear forwards;
+          animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorVK 1s linear forwards;
+}
+
+.vk:hover object {
+  fill: #000;
 }
 
 .facebook:hover .circle {
-  animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorFacebook 1s linear forwards;
+  /*fill: #ffffff;*/
+  /*fill-opacity: 1;*/
+  -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorFacebook 1s linear forwards;
+          animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorFacebook 1s linear forwards;
 }
 
 .telegram:hover .circle {
-  animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorTelegram 1s linear forwards;
+  /*fill: #ffffff;*/
+  /*fill-opacity: 1;*/
+  -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorTelegram 1s linear forwards;
+          animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorTelegram 1s linear forwards;
 }
 
 .github:hover .circle {
-  animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorGitHub 1s linear forwards;
+  /*fill: #ffffff;*/
+  /*fill-opacity: 1;*/
+  -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorGitHub 1s linear forwards;
+          animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorGitHub 1s linear forwards;
 }
 
 .instagram:hover .circle {
-  animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorInstagram 1s linear forwards;
+  /*fill: #ffffff;*/
+  /*fill-opacity: 1;*/
+  -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorInstagram 1s linear forwards;
+          animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorInstagram 1s linear forwards;
 }
 
 .email:hover .circle {
-  animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorEmail 1s linear forwards;
+  /*fill: #ffffff;*/
+  /*fill-opacity: 1;*/
+  -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorEmail 1s linear forwards;
+          animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorEmail 1s linear forwards;
 }
 
-/* Keyframes остаются без изменений */
-@keyframes colorVK { to { stroke: #45668e; } }
-@keyframes colorFacebook { to { stroke: #3b5998; } }
-@keyframes colorTelegram { to { stroke: #0088cc; } }
-@keyframes colorGitHub { to { stroke: #c9510c; } }
-@keyframes colorInstagram { to { stroke: #c13584; } }
-@keyframes colorEmail { to { stroke: #8a90c7; } }
-@keyframes outWaveIn { to { stroke-width: 8px; stroke-dasharray: 400; } }
-@keyframes outWaveOut { to { stroke: #ffffff; stroke-width: 3px; stroke-dasharray: 40; } }
-@keyframes fadeIn { to { opacity: 1 } }
+.main-title .thin {
+  font-weight: 200;
+}
+@media only screen and (max-width: 768px) {
+  .demo-1 .main-title {
+    font-size: 3em;
+  }
+
+  .demo-1 .sub-title {
+    font-size: 3em;
+  }
+}
+
+@-webkit-keyframes colorVK {
+  from {
+    stroke: #ffffff;
+  }
+  to {
+    stroke: #45668e;
+  }
+}
+@keyframes colorVK {
+  from {
+    stroke: #ffffff;
+  }
+  to {
+    stroke: #45668e;
+  }
+}
+@-webkit-keyframes colorFacebook {
+  from {
+    stroke: #ffffff;
+  }
+  to {
+    stroke: #3b5998;
+  }
+}
+@keyframes colorFacebook {
+  from {
+    stroke: #ffffff;
+  }
+  to {
+    stroke: #3b5998;
+  }
+}
+@-webkit-keyframes colorTelegram {
+  from {
+    stroke: #ffffff;
+  }
+  to {
+    stroke: #0088cc;
+  }
+}
+@keyframes colorTelegram {
+  from {
+    stroke: #ffffff;
+  }
+  to {
+    stroke: #0088cc;
+  }
+}
+@-webkit-keyframes colorGitHub {
+  from {
+    stroke: #ffffff;
+  }
+  to {
+    stroke: #c9510c;
+  }
+}
+@keyframes colorGitHub {
+  from {
+    stroke: #ffffff;
+  }
+  to {
+    stroke: #c9510c;
+  }
+}
+@-webkit-keyframes colorInstagram {
+  from {
+    stroke: #ffffff;
+  }
+  to {
+    stroke: #c13584;
+  }
+}
+@keyframes colorInstagram {
+  from {
+    stroke: #ffffff;
+  }
+  to {
+    stroke: #c13584;
+  }
+}
+@-webkit-keyframes colorEmail {
+  from {
+    stroke: #ffffff;
+  }
+  to {
+    stroke: #8a90c7;
+  }
+}
+@keyframes colorEmail {
+  from {
+    stroke: #ffffff;
+  }
+  to {
+    stroke: #8a90c7;
+  }
+}
+@-webkit-keyframes outWaveIn {
+  to {
+    stroke-width: 10px;
+    stroke-dasharray: 400;
+  }
+}
+@keyframes outWaveIn {
+  to {
+    stroke-width: 10px;
+    stroke-dasharray: 400;
+  }
+}
+@-webkit-keyframes outWaveOut {
+  from {
+    stroke-width: 10px;
+    stroke-dasharray: 400;
+  }
+  to {
+    stroke: #ffffff;
+    stroke-width: 5px;
+    stroke-dasharray: 40;
+  }
+}
+@keyframes outWaveOut {
+  from {
+    stroke-width: 10px;
+    stroke-dasharray: 400;
+  }
+  to {
+    stroke: #ffffff;
+    stroke-width: 5px;
+    stroke-dasharray: 40;
+  }
+}
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0
+  }
+  to {
+    opacity: 1
+  }
+}
+@keyframes fadeIn {
+  from {
+    opacity: 0
+  }
+  to {
+    opacity: 1
+  }
+}
