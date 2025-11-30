@@ -1,110 +1,87 @@
-<html lang="ru"><head>
-<meta charset="UTF-8">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
-<meta name="description" content="Сайт о разработчике android и web приложений"> 
-<title>Портфолио</title>
-<link href="https://fonts.googleapis.com/css?family=Raleway:200,400,800" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
-<link rel="stylesheet" href="https://Sidenevkirill.github.io/style.css">
-<script type="text/javascript" src="js/proton.min.js"></script> </head><body><style>
-body {
-background: #000; /* Цвет фона */
-color: #fc0; /* Цвет текста */
-}
-</style>
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Портфолио</title>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:200,400,800" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Canvas для волнового эффекта -->
+    <canvas id="waveCanvas"></canvas>
 
-<a class="btn-vk" href="//vk.com/sidenev_kirill" target="_blank"></a>
-  
-<div class="text-wrapper"> 
-<div class="socials">
-<a href="//vk.com/id175974139" target="_blank" class="icon vk" id="vk">
-<svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle"> 
-<circle cx="100" cy="100" r="50"></circle>
-</svg>
-<img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/vk.svg">
-</a>
+    <!-- Canvas для частиц -->
+    <canvas id="particlesCanvas"></canvas>
 
-<a href="//t.me/lisdevs" target="_blank" class="icon facebook" id="facebook">
-<svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle"> 
-<circle cx="100" cy="100" r="50"></circle>
-</svg>
-<img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/telegram.svg">
-</a>
+    <!-- Фото по центру сверху с ссылкой -->
+    <a href="https://vk.ru/sidenyov" target="_blank" class="profile-photo"></a>
+    
+    <div class="text-wrapper"> 
+        <div class="socials">
+            <a href="//vk.com/id175974139" target="_blank" class="icon vk" id="vk">
+                <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle"> 
+                    <circle cx="100" cy="100" r="60"></circle>
+                </svg>
+                <img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/vk.svg" alt="VK">
+            </a>
 
-<a href="//github.com/sidenevkirill" target="_blank" class="icon telegram" id="telegram">
-<svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle"> 
-<circle cx="100" cy="100" r="50"></circle>
-</svg>
-<img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/github-logo.svg">
-</a>
+            <a href="//t.me/lisdevs" target="_blank" class="icon facebook" id="facebook">
+                <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle"> 
+                    <circle cx="100" cy="100" r="60"></circle>
+                </svg>
+                <img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/telegram.svg" alt="Telegram">
+            </a>
 
-<a href="https://apps.rustore.ru/developer/AQCtnMMPLtFsskX3zQdinKKt18wN90Xc" target="_blank" class="icon instagram" id="instagram">
-<svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle"> 
-<circle cx="100" cy="100" r="50"></circle>
-</svg>
-<img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/6991908625ef97d8d66e63ec5d6f9eb8e5faa49d/img/rustore-svgrepo-com.svg">
-</a>
+            <a href="//github.com/sidenevkirill" target="_blank" class="icon telegram" id="telegram">
+                <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle"> 
+                    <circle cx="100" cy="100" r="60"></circle>
+                </svg>
+                <img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/github-logo.svg" alt="GitHub">
+            </a>
 
-<a href="https://appgallery.huawei.com/app/C109632445?sharePrepath=ag&locale=ru" target="_blank" class="icon github" id="github">
-<svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle"> 
-<circle cx="100" cy="100" r="50"></circle>
-</svg>
-<img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/a6ccdcf9dd4af5142df833cf42659aad4f99f78c/img/huawei-svgrepo-com.svg">
-</a>
+            <a href="https://apps.rustore.ru/developer/AQCtnMMPLtFsskX3zQdinKKt18wN90Xc" target="_blank" class="icon instagram" id="instagram">
+                <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle"> 
+                    <circle cx="100" cy="100" r="60"></circle>
+                </svg>
+                <img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/6991908625ef97d8d66e63ec5d6f9eb8e5faa49d/img/rustore-svgrepo-com.svg" alt="RuStore">
+            </a>
 
-<a href="https://play.google.com/store/apps/developer?id=GANG+MEDIA+GROUP&hl=ru&gl=US" target="_blank" class="icon email" id="email">
-<svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle"> 
-<circle cx="100" cy="100" r="50"></circle>
-</svg>
-<img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/play.svg">
-</a>
-</div>
-</div>
+            <a href="https://appgallery.huawei.com/app/C109632445?sharePrepath=ag&locale=ru" target="_blank" class="icon github" id="github">
+                <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle"> 
+                    <circle cx="100" cy="100" r="60"></circle>
+                </svg>
+                <img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/a6ccdcf9dd4af5142df833cf42659aad4f99f78c/img/huawei-svgrepo-com.svg" alt="Huawei AppGallery">
+            </a>
 
-<a href="https://sidenevkirill.github.io/new/index.html" class="footer">ПРОДОЛЖИТЬ</a>
+            <a href="https://play.google.com/store/apps/developer?id=GANG+MEDIA+GROUP&hl=ru&gl=US" target="_blank" class="icon email" id="email">
+                <svg preserveAspectRatio="xMinYMin meet" viewBox="0 0 200 200" class="circle"> 
+                    <circle cx="100" cy="100" r="60"></circle>
+                </svg>
+                <img src="https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/master/img/play.svg" alt="Google Play">
+            </a>
+        </div>
+    </div>
 
-<script type="text/javascript">
+    <a href="https://sidenevkirill.github.io/new/index.html" class="footer">ПРОДОЛЖИТЬ</a>
 
+    <script src="https://cdn.jsdelivr.net/npm/proton-engine@4.2.0/proton.min.js"></script>
+    <script src="js/wave-effect.js"></script>
+    <script src="js/particles.js"></script>
+    <script>
+        // Инициализация при загрузке
+        window.addEventListener('load', () => {
+            new WaveEffect();
+            initParticles();
+        });
 
-var red = 255;
-var green = 255;
-var blue = 255;
-
-document.getElementById("vk").addEventListener("mouseenter", function(e){
-red = 79;
-green = 102;
-blue = 142;
-}, true);
-
-document.getElementById("facebook").addEventListener("mouseenter", function(e){
-red = 79;
-green = 163;
-blue = 222;
-}, true);
-
-document.getElementById("telegram").addEventListener("mouseenter", function(e){
-red = 59;
-green = 89;
-blue = 152;
-}, true);
-
-document.getElementById("github").addEventListener("mouseenter", function(e){
-red = 3;
-green = 3;
-blue = 15;
-}, true);
-
-document.getElementById("instagram").addEventListener("mouseenter", function(e){
-red = 193;
-green = 53;
-blue = 132;
-}, true);
-
-document.getElementById("email").addEventListener("mouseenter", function(e){
-red = 138;
-green = 144;
-blue = 199;
-}, true);
-</script>
-
-</body></html>
+        // Цвета для социальных иконок (оставлено для совместимости)
+        document.getElementById("vk").addEventListener("mouseenter", function(){}, true);
+        document.getElementById("facebook").addEventListener("mouseenter", function(){}, true);
+        document.getElementById("telegram").addEventListener("mouseenter", function(){}, true);
+        document.getElementById("github").addEventListener("mouseenter", function(){}, true);
+        document.getElementById("instagram").addEventListener("mouseenter", function(){}, true);
+        document.getElementById("email").addEventListener("mouseenter", function(){}, true);
+    </script>
+</body>
+</html>
