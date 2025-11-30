@@ -1,351 +1,278 @@
-/* video background */
-.bg-video {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.btn-vk {
-    float: left;
-    position: relative;
+/* Базовые стили */
+* {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    color: #f9f1e9;
-    text-align: center;
-    width: 12em;
-    height: 2em;
-    left: 50%;
+}
+
+body {
+    background: #000;
+    color: #fc0;
+    overflow-x: hidden;
+    position: relative;
+    height: 100vh;
+    font-family: 'Raleway', sans-serif;
+    /* Стандартный курсор мыши */
+    cursor: default;
+}
+
+/* Canvas для волнового эффекта */
+#waveCanvas {
+    position: fixed;
     top: 0;
-    font-size: 4.2em;
-    transform: translate3d(-50%, 0, 0);
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    pointer-events: none;
+}
+
+/* Canvas для частиц */
+#particlesCanvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    pointer-events: none;
+}
+
+/* Фото по центру сверху */
+.profile-photo {
+    position: absolute;
     width: 120px;
     height: 120px;
-    background: url(https://Sidenevkirill.github.io/img/17927780.jpg) no-repeat;
+    background: url(https://Sidenevkirill.github.io/img/17927780.jpg) no-repeat center center;
     background-size: cover;
-    position: absolute;
-    top: 120px;
-    bottom: 1px;
-    right: 15px;
-    border: 0px solid #dedede;
-    transition: 0.3s all ease;
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
-    -webkit-box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
-    -moz-box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
-    box-shadow: 0px 2px 2px 0px rgba(34,34,34,0.05);
+    top: 70px; /* Изменил на 70px */
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    z-index: 10;
+    cursor: pointer; /* Курсор указатель для кликабельного фото */
 }
 
+.profile-photo:hover {
+    transform: translateX(-50%) scale(1.05);
+}
+
+/* Футер - адаптивная */
 .footer {
-  position: absolute;
-  right: 0;
-  bottom: 20;
-  font-size: 17px;
-  color: #fff;
-  left: 0;
-  padding: 1rem;
-  text-align: center;
-}
-
-.wrapper {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width:100%;
-  height:100vh;
-  overflow: hidden;
-  -webkit-animation: fadeIn 5s cubic-bezier(0.42, 0, 0.58, 1) forwards;
-          animation: fadeIn 5s cubic-bezier(0.42, 0, 0.58, 1) forwards;
-}
-
-
-
-.text-wrapper {
-  position: absolute;
-  top: 60%;
-  left: 0;
-  width: 100vw;
-  height: auto;
-  overflow: hidden;
-  background-size: cover;
-  background-position: center center;
-  z-index: 1;
-  -webkit-transform: translate3d(0, -50%, 0);
-  transform: translate3d(0, -50%, 0);
-}
-
-.main-title {
-  position: relative;
-  margin: 0;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  color: #f9f1e9;
-  text-align: center;
-  margin-left: 50%;
-  font-size: 4.2em;
-  -webkit-transform: translate3d(-50%, 0, 0);
-  transform: translate3d(-50%, 0, 0);
-}
-
-.sub-title {
-    position: relative;
-    margin: 0;
-    padding: 0;
-    color: #0088cc;
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    font-size: 17px;
+    color: #fff;
+    padding: 1rem;
     text-align: center;
-    font-size: 1.1em;
-    font-weight: 100;
-    margin-left: 47.50%;
-    -webkit-transform: translate3d(-50%, 0, 0);
-    transform: translate3d(-50%, 0, 0);
+    z-index: 10;
+    text-decoration: none;
+    font-weight: 200;
 }
 
+/* Текстовый блок - адаптивная */
+.text-wrapper {
+    position: absolute;
+    top: 55%;
+    left: 0;
+    width: 100%;
+    transform: translateY(-50%);
+    z-index: 2;
+    padding: 0 20px;
+}
+
+/* Социальные иконки - адаптивные */
 .socials {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  color: #f9f1e9;
-  text-align: center;
-  width: 12em;
-  height: 2em;
-  left: 50%;
-  top: 0;
-  font-size: 4.2em;
-  transform: translate3d(-50%, 0, 0);
+    position: relative;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+    max-width: 1000px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    gap: 20px;
 }
 
 .socials .icon {
-  position: relative;
-  float: left;
+    position: relative;
+    width: 120px;
+    height: 120px;
+    flex-shrink: 0;
+    z-index: 10;
+    cursor: pointer;
 }
 
 .socials .icon .circle {
-  fill: none;
-  stroke: #ffffff;
-  stroke-width: 5px;
-  stroke-dasharray: 40;
-  width: 2em;
-  height: 2em;
-  -webkit-transition: all 0.2s ease-in-out;
-  transition: all 0.2s ease-in-out;
-  -webkit-animation: outWaveOut 1s cubic-bezier(0.42, 0, 0.58, 1) forwards;
-          animation: outWaveOut 1s cubic-bezier(0.42, 0, 0.58, 1) forwards;
+    fill: none;
+    stroke: #ffffff;
+    stroke-width: 5px;
+    stroke-dasharray: 70;
+    width: 100%;
+    height: 100%;
+    transition: all 0.3s ease-in-out;
+    animation: outWaveOut 1.5s cubic-bezier(0.42, 0, 0.58, 1) forwards;
 }
 
 .socials .icon:hover {
-  cursor: pointer;
+    transform: scale(1.1);
 }
 
-.socials .icon img, .socials .icon object {
-  position: absolute;
-  width: 1em;
-  height: 0.5em;
-  top: 37%;
-  left: 25%;
+.socials .icon img {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    filter: brightness(0) invert(1);
+    transition: all 0.3s ease;
 }
 
+.socials .icon:hover img {
+    transform: translate(-50%, -50%) scale(1.1);
+}
+
+/* Медиа-запросы для мобильных устройств */
+@media only screen and (max-width: 1200px) {
+    .socials {
+        max-width: 900px;
+        gap: 18px;
+    }
+    
+    .socials .icon {
+        width: 110px;
+        height: 110px;
+    }
+    
+    .socials .icon img {
+        width: 32px;
+        height: 32px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    .socials {
+        max-width: 800px;
+        gap: 15px;
+    }
+    
+    .socials .icon {
+        width: 100px;
+        height: 100px;
+    }
+    
+    .socials .icon .circle {
+        stroke-width: 4px;
+    }
+    
+    .socials .icon img {
+        width: 30px;
+        height: 30px;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .profile-photo {
+        width: 100px;
+        height: 100px;
+        top: 50px; /* Адаптивный отступ для мобильных */
+    }
+    
+    .socials {
+        max-width: 700px;
+        gap: 12px;
+    }
+    
+    .socials .icon {
+        width: 90px;
+        height: 90px;
+    }
+    
+    .socials .icon .circle {
+        stroke-width: 4px;
+    }
+    
+    .socials .icon img {
+        width: 28px;
+        height: 28px;
+    }
+    
+    .footer {
+        font-size: 14px;
+        padding: 0.5rem;
+        bottom: 10px;
+    }
+
+    .text-wrapper {
+        top: 53%;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    /* На очень маленьких экранах возвращаем перенос на 2 строки */
+    .socials {
+        flex-wrap: wrap;
+        max-width: 450px;
+        gap: 15px;
+    }
+    
+    .socials .icon {
+        width: 85px;
+        height: 85px;
+    }
+    
+    .socials .icon img {
+        width: 26px;
+        height: 26px;
+    }
+    
+    .profile-photo {
+        width: 90px;
+        height: 90px;
+        top: 40px; /* Адаптивный отступ для очень маленьких экранов */
+    }
+    
+    .text-wrapper {
+        top: 52%;
+    }
+}
+
+/* Анимации */
 .vk:hover .circle {
-  /*fill: #ffffff;*/
-  /*fill-opacity: 1;*/
-  -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorVK 1s linear forwards;
-          animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorVK 1s linear forwards;
-}
-
-.vk:hover object {
-  fill: #000;
+    animation: outWaveIn 1.2s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorVK 1s linear forwards;
 }
 
 .facebook:hover .circle {
-  /*fill: #ffffff;*/
-  /*fill-opacity: 1;*/
-  -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorFacebook 1s linear forwards;
-          animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorFacebook 1s linear forwards;
+    animation: outWaveIn 1.2s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorFacebook 1s linear forwards;
 }
 
 .telegram:hover .circle {
-  /*fill: #ffffff;*/
-  /*fill-opacity: 1;*/
-  -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorTelegram 1s linear forwards;
-          animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorTelegram 1s linear forwards;
+    animation: outWaveIn 1.2s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorTelegram 1s linear forwards;
 }
 
 .github:hover .circle {
-  /*fill: #ffffff;*/
-  /*fill-opacity: 1;*/
-  -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorGitHub 1s linear forwards;
-          animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorGitHub 1s linear forwards;
+    animation: outWaveIn 1.2s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorGitHub 1s linear forwards;
 }
 
 .instagram:hover .circle {
-  /*fill: #ffffff;*/
-  /*fill-opacity: 1;*/
-  -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorInstagram 1s linear forwards;
-          animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorInstagram 1s linear forwards;
+    animation: outWaveIn 1.2s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorInstagram 1s linear forwards;
 }
 
 .email:hover .circle {
-  /*fill: #ffffff;*/
-  /*fill-opacity: 1;*/
-  -webkit-animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorEmail 1s linear forwards;
-          animation: outWaveIn 1s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorEmail 1s linear forwards;
+    animation: outWaveIn 1.2s cubic-bezier(0.42, 0, 0.58, 1) forwards, colorEmail 1s linear forwards;
 }
 
-.main-title .thin {
-  font-weight: 200;
-}
-@media only screen and (max-width: 768px) {
-  .demo-1 .main-title {
-    font-size: 3em;
-  }
-
-  .demo-1 .sub-title {
-    font-size: 3em;
-  }
-}
-
-@-webkit-keyframes colorVK {
-  from {
-    stroke: #ffffff;
-  }
-  to {
-    stroke: #45668e;
-  }
-}
-@keyframes colorVK {
-  from {
-    stroke: #ffffff;
-  }
-  to {
-    stroke: #45668e;
-  }
-}
-@-webkit-keyframes colorFacebook {
-  from {
-    stroke: #ffffff;
-  }
-  to {
-    stroke: #3b5998;
-  }
-}
-@keyframes colorFacebook {
-  from {
-    stroke: #ffffff;
-  }
-  to {
-    stroke: #3b5998;
-  }
-}
-@-webkit-keyframes colorTelegram {
-  from {
-    stroke: #ffffff;
-  }
-  to {
-    stroke: #0088cc;
-  }
-}
-@keyframes colorTelegram {
-  from {
-    stroke: #ffffff;
-  }
-  to {
-    stroke: #0088cc;
-  }
-}
-@-webkit-keyframes colorGitHub {
-  from {
-    stroke: #ffffff;
-  }
-  to {
-    stroke: #c9510c;
-  }
-}
-@keyframes colorGitHub {
-  from {
-    stroke: #ffffff;
-  }
-  to {
-    stroke: #c9510c;
-  }
-}
-@-webkit-keyframes colorInstagram {
-  from {
-    stroke: #ffffff;
-  }
-  to {
-    stroke: #c13584;
-  }
-}
-@keyframes colorInstagram {
-  from {
-    stroke: #ffffff;
-  }
-  to {
-    stroke: #c13584;
-  }
-}
-@-webkit-keyframes colorEmail {
-  from {
-    stroke: #ffffff;
-  }
-  to {
-    stroke: #8a90c7;
-  }
-}
-@keyframes colorEmail {
-  from {
-    stroke: #ffffff;
-  }
-  to {
-    stroke: #8a90c7;
-  }
-}
-@-webkit-keyframes outWaveIn {
-  to {
-    stroke-width: 10px;
-    stroke-dasharray: 400;
-  }
-}
-@keyframes outWaveIn {
-  to {
-    stroke-width: 10px;
-    stroke-dasharray: 400;
-  }
-}
-@-webkit-keyframes outWaveOut {
-  from {
-    stroke-width: 10px;
-    stroke-dasharray: 400;
-  }
-  to {
-    stroke: #ffffff;
-    stroke-width: 5px;
-    stroke-dasharray: 40;
-  }
-}
-@keyframes outWaveOut {
-  from {
-    stroke-width: 10px;
-    stroke-dasharray: 400;
-  }
-  to {
-    stroke: #ffffff;
-    stroke-width: 5px;
-    stroke-dasharray: 40;
-  }
-}
-@-webkit-keyframes fadeIn {
-  from {
-    opacity: 0
-  }
-  to {
-    opacity: 1
-  }
-}
-@keyframes fadeIn {
-  from {
-    opacity: 0
-  }
-  to {
-    opacity: 1
-  }
-}
+/* Keyframes */
+@keyframes colorVK { to { stroke: #45668e; } }
+@keyframes colorFacebook { to { stroke: #3b5998; } }
+@keyframes colorTelegram { to { stroke: #0088cc; } }
+@keyframes colorGitHub { to { stroke: #c9510c; } }
+@keyframes colorInstagram { to { stroke: #c13584; } }
+@keyframes colorEmail { to { stroke: #8a90c7; } }
+@keyframes outWaveIn { to { stroke-width: 8px; stroke-dasharray: 350; } }
+@keyframes outWaveOut { to { stroke: #ffffff; stroke-width: 5px; stroke-dasharray: 70; } }
