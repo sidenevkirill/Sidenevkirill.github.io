@@ -1,0 +1,151 @@
+{
+  "popular_artists": [
+    {
+      "id": "artist_1",
+      "name": "The Weeknd",
+      "domain": "theweeknd",
+      "photo_100": "https://raw.githubusercontent.com/your-username/your-repo/main/images/weeknd_100.jpg",
+      "photo_200": "https://raw.githubusercontent.com/your-username/your-repo/main/images/weeknd_200.jpg",
+      "photo_400": "https://raw.githubusercontent.com/your-username/your-repo/main/images/weeknd_400.jpg",
+      "description": "Канадский певец и автор песен. Один из самых коммерчески успешных артистов в мире.",
+      "followers": 15800000,
+      "popularity": 98,
+      "genres": [
+        {"id": "1", "name": "R&B"},
+        {"id": "2", "name": "Pop"},
+        {"id": "3", "name": "Alternative"}
+      ]
+    },
+    {
+      "id": "artist_2",
+      "name": "Taylor Swift",
+      "domain": "taylorswift",
+      "photo_200": "https://raw.githubusercontent.com/your-username/your-repo/main/images/swift_200.jpg",
+      "photo_400": "https://raw.githubusercontent.com/your-username/your-repo/main/images/swift_400.jpg",
+      "description": "Американская певица и автор песен. Известна своими автобиографическими песнями.",
+      "followers": 14300000,
+      "popularity": 96,
+      "genres": [
+        {"id": "4", "name": "Country"},
+        {"id": "2", "name": "Pop"},
+        {"id": "5", "name": "Indie"}
+      ]
+    },
+    {
+      "id": "artist_3",
+      "name": "Drake",
+      "domain": "drake",
+      "photo_200": "https://raw.githubusercontent.com/your-username/your-repo/main/images/drake_200.jpg",
+      "photo_400": "https://raw.githubusercontent.com/your-username/your-repo/main/images/drake_400.jpg",
+      "description": "Канадский рэпер, певец и автор песен. Один из самых продаваемых артистов всех времён.",
+      "followers": 13600000,
+      "popularity": 94,
+      "genres": [
+        {"id": "6", "name": "Hip-Hop"},
+        {"id": "1", "name": "R&B"},
+        {"id": "2", "name": "Pop"}
+      ]
+    },
+    {
+      "id": "artist_4",
+      "name": "Ariana Grande",
+      "domain": "arianagrande",
+      "photo_200": "https://raw.githubusercontent.com/your-username/your-repo/main/images/ariana_200.jpg",
+      "photo_400": "https://raw.githubusercontent.com/your-username/your-repo/main/images/ariana_400.jpg",
+      "description": "Американская певица и актриса. Обладательница вокального диапазона в 4 октавы.",
+      "followers": 12400000,
+      "popularity": 92,
+      "genres": [
+        {"id": "2", "name": "Pop"},
+        {"id": "1", "name": "R&B"}
+      ]
+    },
+    {
+      "id": "artist_5",
+      "name": "Ed Sheeran",
+      "domain": "edsheeran",
+      "photo_200": "https://raw.githubusercontent.com/your-username/your-repo/main/images/ed_200.jpg",
+      "photo_400": "https://raw.githubusercontent.com/your-username/your-repo/main/images/ed_400.jpg",
+      "description": "Британский певец и автор песен. Известен своими акустическими выступлениями.",
+      "followers": 11800000,
+      "popularity": 90,
+      "genres": [
+        {"id": "7", "name": "Folk"},
+        {"id": "2", "name": "Pop"},
+        {"id": "8", "name": "Acoustic"}
+      ]
+    },
+    {
+      "id": "artist_6",
+      "name": "Billie Eilish",
+      "domain": "billieeilish",
+      "photo_200": "https://raw.githubusercontent.com/your-username/your-repo/main/images/billie_200.jpg",
+      "photo_400": "https://raw.githubusercontent.com/your-username/your-repo/main/images/billie_400.jpg",
+      "description": "Американская певица и автор песен. Стала популярной в юном возрасте.",
+      "followers": 11200000,
+      "popularity": 88,
+      "genres": [
+        {"id": "9", "name": "Alternative Pop"},
+        {"id": "10", "name": "Electropop"}
+      ]
+    },
+    {
+      "id": "artist_7",
+      "name": "Post Malone",
+      "domain": "postmalone",
+      "photo_200": "https://raw.githubusercontent.com/your-username/your-repo/main/images/post_200.jpg",
+      "photo_400": "https://raw.githubusercontent.com/your-username/your-repo/main/images/post_400.jpg",
+      "description": "Американский рэпер, певец и автор песен. Известен своим уникальным стилем.",
+      "followers": 10700000,
+      "popularity": 86,
+      "genres": [
+        {"id": "6", "name": "Hip-Hop"},
+        {"id": "11", "name": "Rock"},
+        {"id": "2", "name": "Pop"}
+      ]
+    },
+    {
+      "id": "artist_8",
+      "name": "Dua Lipa",
+      "domain": "dualipa",
+      "photo_200": "https://raw.githubusercontent.com/your-username/your-repo/main/images/dua_200.jpg",
+      "photo_400": "https://raw.githubusercontent.com/your-username/your-repo/main/images/dua_400.jpg",
+      "description": "Британская певица и автор песен. Лауреат премии Грэмми.",
+      "followers": 10200000,
+      "popularity": 84,
+      "genres": [
+        {"id": "2", "name": "Pop"},
+        {"id": "12", "name": "Disco"},
+        {"id": "13", "name": "Dance"}
+      ]
+    },
+    {
+      "id": "artist_9",
+      "name": "Bad Bunny",
+      "domain": "badbunny",
+      "photo_200": "https://raw.githubusercontent.com/your-username/your-repo/main/images/bunny_200.jpg",
+      "photo_400": "https://raw.githubusercontent.com/your-username/your-repo/main/images/bunny_400.jpg",
+      "description": "Пуэрто-риканский певец и рэпер. Самый популярный латиноамериканский артист.",
+      "followers": 9800000,
+      "popularity": 82,
+      "genres": [
+        {"id": "14", "name": "Reggaeton"},
+        {"id": "15", "name": "Latin Trap"}
+      ]
+    },
+    {
+      "id": "artist_10",
+      "name": "Olivia Rodrigo",
+      "domain": "oliviarodrigo",
+      "photo_200": "https://raw.githubusercontent.com/your-username/your-repo/main/images/olivia_200.jpg",
+      "photo_400": "https://raw.githubusercontent.com/your-username/your-repo/main/images/olivia_400.jpg",
+      "description": "Американская певица и автор песен. Популярность приобрела в подростковом возрасте.",
+      "followers": 9200000,
+      "popularity": 80,
+      "genres": [
+        {"id": "2", "name": "Pop"},
+        {"id": "16", "name": "Alternative Rock"}
+      ]
+    }
+  ]
+}
