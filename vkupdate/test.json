@@ -1,11 +1,11 @@
 {
-    "title": "Присоединяйся к нам!",
-    "name": "Внимание",
-    "message": "Привет! Доставляй с Едой. Быстрые выплаты, гибкое расписание и удобные районы для выполнения заказов. ",
-    "version": "0.0.1",
-    "build": 1,
+    "title": "Вам нравится приложение ?",
+    "name": "Вы можете поставить нам оценку в Rustore.",
+    "message": "Это поможет нам для дальнешего развития приложения",
+    "version": "2.2.1",
+    "build": 200,
     "type": "page",
     "icon_url": "",
-    "link": "https://ya.cc/8LZaso",
+    "link": "https://www.rustore.ru/catalog/app/ru.lisdevs.vkmp",
     "direct_link": "https://raw.githubusercontent.com/sidenevkirill/Sidenevkirill.github.io/refs/heads/master/img/round_ya_pro.png"
 }
